@@ -1,0 +1,15 @@
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.csprojAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\MainWindow.g.cs
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\App.g.cs
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN_MarkupCompile.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN_MarkupCompile.lref
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\bin\Debug\REIZEN.exe.config
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\bin\Debug\REIZEN.exe
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\bin\Debug\REIZEN.pdb
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\MainWindow.baml
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.g.resources
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.Properties.Resources.resources
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.csproj.GenerateResource.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.csproj.CoreCompileInputs.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.exe
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\REIZEN\REIZEN\obj\Debug\REIZEN.pdb

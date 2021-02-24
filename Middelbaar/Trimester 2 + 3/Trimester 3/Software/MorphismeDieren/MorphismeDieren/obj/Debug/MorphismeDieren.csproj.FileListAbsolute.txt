@@ -1,0 +1,7 @@
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\bin\Debug\MorphismeDieren.exe.config
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\bin\Debug\MorphismeDieren.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\bin\Debug\MorphismeDieren.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\obj\Debug\MorphismeDieren.csprojAssemblyReference.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\obj\Debug\MorphismeDieren.csproj.CoreCompileInputs.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\obj\Debug\MorphismeDieren.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\MorphismeDieren\MorphismeDieren\obj\Debug\MorphismeDieren.pdb

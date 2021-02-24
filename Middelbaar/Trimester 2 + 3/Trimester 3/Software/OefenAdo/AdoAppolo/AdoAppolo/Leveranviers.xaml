@@ -1,0 +1,16 @@
+﻿<Window x:Class="AdoAppolo.Leveranviers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdoAppolo"
+        mc:Ignorable="d"
+        Title="Leveranviers" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="cbLeveranviers" HorizontalAlignment="Left" Margin="376,123,0,0" VerticalAlignment="Top" Width="247" Height="36" SelectionChanged="CbLeveranviers_SelectionChanged"/>
+        <Label Content="Leverancier" HorizontalAlignment="Left" Margin="155,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.12,-0.206" Width="116"/>
+        <Label Content="Aantal" HorizontalAlignment="Left" Margin="155,276,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.12,-0.206" Width="116"/>
+        <Label x:Name="lblAantal" Content="" HorizontalAlignment="Left" Margin="376,276,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.12,-0.206" Width="116"/>
+
+    </Grid>
+</Window>

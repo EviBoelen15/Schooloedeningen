@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<link href="OpmaakVoetballer.css" rel="stylesheet" />
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            left: 0px;
+            top: 0px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <div id="Wrapper">
+            <div id="Header">
+                <div id="HeadPic">
+                    <img src="Images/Sebastien1.jpg" class="img1" />
+                </div>
+                <div id="HeadText">Sébastien Dewaest</div>
+            </div>
+            <div id="Menu">
+                <ol>
+                    <li id=""><a href="Default.aspx">Home</a></li>
+                    <li id=""><a href="About.aspx">About</a></li>
+                    <li id=""><a href="Nieuws.aspx">Nieuws</a></li>
+                    <li id=""><a href="Contact.aspx">Contact</a></li>
+                    <li id=""><a href="Photos.aspx">Photos</a></li>
+                </ol>
+            </div>
+            <div id="Content">
+                <div id="Text">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            <div id="Footer"></div>
+        </div>
+    </form>
+</body>
+</html>

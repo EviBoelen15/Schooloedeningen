@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Voetballer_BoelenEvi", "Voetballer_BoelenEvi", "{9FAB54CE-F491-443D-B989-2994223EB581}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61610"
+		Debug.AspNetCompiler.PhysicalPath = "Voetballer_BoelenEvi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61610\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61610"
+		Release.AspNetCompiler.PhysicalPath = "Voetballer_BoelenEvi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61610\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61610"
+		SlnRelativePath = "Voetballer_BoelenEvi\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FAB54CE-F491-443D-B989-2994223EB581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAB54CE-F491-443D-B989-2994223EB581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BF89AF-4BEC-4B32-99E4-A91048244D4E}
+	EndGlobalSection
+EndGlobal

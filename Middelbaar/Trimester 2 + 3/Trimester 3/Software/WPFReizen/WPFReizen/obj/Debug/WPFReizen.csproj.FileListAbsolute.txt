@@ -1,0 +1,15 @@
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\MainWindow.g.cs
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\App.g.cs
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen_MarkupCompile.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen_MarkupCompile.lref
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\bin\Debug\WPFReizen.exe.config
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\bin\Debug\WPFReizen.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\bin\Debug\WPFReizen.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\MainWindow.baml
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.g.resources
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.Properties.Resources.resources
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.csproj.GenerateResource.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.csproj.CoreCompileInputs.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\WPFReizen\WPFReizen\obj\Debug\WPFReizen.csprojAssemblyReference.cache

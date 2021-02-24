@@ -1,0 +1,7 @@
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\obj\Debug\OefeningBankrekeningPolyList.csprojAssemblyReference.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\obj\Debug\OefeningBankrekeningPolyList.csproj.CoreCompileInputs.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\bin\Debug\OefeningBankrekeningPolyList.exe.config
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\bin\Debug\OefeningBankrekeningPolyList.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\bin\Debug\OefeningBankrekeningPolyList.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\obj\Debug\OefeningBankrekeningPolyList.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 2 + 3\Trimester 3\Software\OefeningBankrekeningPolyList\OefeningBankrekeningPolyList\obj\Debug\OefeningBankrekeningPolyList.pdb

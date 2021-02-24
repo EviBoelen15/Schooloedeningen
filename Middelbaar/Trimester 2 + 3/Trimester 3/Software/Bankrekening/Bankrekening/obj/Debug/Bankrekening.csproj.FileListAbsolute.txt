@@ -1,0 +1,7 @@
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\bin\Debug\Bankrekening.exe.config
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\bin\Debug\Bankrekening.exe
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\bin\Debug\Bankrekening.pdb
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\obj\Debug\Bankrekening.csprojAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\obj\Debug\Bankrekening.csproj.CoreCompileInputs.cache
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\obj\Debug\Bankrekening.exe
+\\FLANDRIEN\evi.boelen$\6ITN\Trimester 2 + 3\Trimester 3\Software\Bankrekening\Bankrekening\obj\Debug\Bankrekening.pdb
