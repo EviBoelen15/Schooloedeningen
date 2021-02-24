@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SnakeGame.Food">
+    <Position X="9.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeGame.Highscores" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAAAAAAAAACAAAAAAIAAAAAQAAAAAAA=</HashCode>
+      <FileName>Highscores.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.149" Collapsed="true" />
+  </Class>
+  <Class Name="SnakeGame.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAjAAAQCAACIAAABAAIAIgAAAAIAAAAEABxAoAAgBI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.705" Collapsed="true" />
+  </Class>
+  <Class Name="SnakeGame.Snake">
+    <Position X="5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeGame.VulNaamIn" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAgAAAQAAAAMAIAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VulNaamIn.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MainWindow" />
+    </ShowAsAssociation>
+    <Lollipop Orientation="Right" Position="0.174" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
