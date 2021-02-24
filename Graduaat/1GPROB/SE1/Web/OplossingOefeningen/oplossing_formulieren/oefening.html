@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Oefening 1</title>
+    <link rel="stylesheet" href="oefening1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header>
+    <h1>Je hebt gewonnen!</h1>
+    <h2>Vul je gegevens in en we sturen de prijs naar jou!</h2>
+</header>
+<main>
+<form action="mailto:kw@pxl.be" method="post" enctype="text/plain">
+    <label for="name">Achternaam</label>
+    <input type="text" id="name" name="Achternaam">
+    <label for="fname">Voornaam</label>
+    <input type="text" id="fname" name="Voornaam">
+    <label for="street">Straat</label>
+    <input type="text" id="street" name="Straat">
+    <label for="nr">Nummer</label>
+    <input type="text" id="nr" name="Nummer" maxlength="4">
+    <label for="bus">Bus</label>
+    <input type="text" id="bus" name="Bus" maxlength="4">
+    <label for="zip">Postcode</label>
+    <input type="text" id="zip" name="Postcode" maxlength="4">
+    <label for="city">Gemeente</label>
+    <input type="text" id="city" name="Gemeente">
+    <input type="submit" value="Verzenden">
+    <input type="reset" value="Wissen">
+</form>
+</main>
+</body>
+</html>

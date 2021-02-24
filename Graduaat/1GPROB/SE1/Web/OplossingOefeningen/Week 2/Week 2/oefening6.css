@@ -1,0 +1,70 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #4c5768;
+  color: #fff7ed;
+}
+
+h1 {
+  color: #ffca89;
+}
+
+a {
+  color: #fff7ed;
+}
+
+a:hover {
+  color: #ffca89;
+}
+
+#playlist {
+  padding-left: 60px;
+}
+
+#playlist a:hover {
+  font-size: 1.2em;
+}
+
+#festivals a {
+  border: 3px solid grey;
+  padding: 4px 12px;
+  margin: 4px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#festivals a:hover {
+  background-color: #676767;
+}
+
+main article {
+  border: 2px solid #b27831;
+  margin: 20px;
+  padding: 0 20px 20px 20px;
+}
+
+main article a, main article a:hover {
+  color: #4c5768;
+}
+
+#pukkelpop {
+  background-color: #aad8ef;
+}
+
+#werchter {
+  background-color: #fcdcb5;
+  color: darkgreen;
+}
+
+#tomorrowland {
+  background-color: #fbceff;
+}
+
+#graspop {
+  background-color: #bdf7b2;
+}
+
+#dour {
+  background-color: #f9f6c0;
+  color: black;
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2wbSm8qJkV/wwAKQrAysCQomQC7iYcuHaRm8287bC1Dr9OkAkMoDYQBPIQ8VMd5xYZdb1vH/pOJzVwJzVuDCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\Desktop\\CS_Essentials\\CS_Oefeningen_Besturingselementen\\CS_Oefening_033\\CS_Oefening_033.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

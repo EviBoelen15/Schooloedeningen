@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+body {
+    background-color: #ffe2e2;
+    margin: 0;
+}
+header {
+  padding: 30px 12px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff008b;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #ba0067;
+    color: #ffffff;
+}
+li img {
+  height: 45px;
+  margin: 10px 20px 10px 20px;
+}

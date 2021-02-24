@@ -1,0 +1,77 @@
+Vraag 01
+create or replace view AfdelingenMedewerkers as
+select a.anr, a.naam AFDELING, m.mnr, m.naam || ' ' || m.voorn Medewerker, m.maandsal + nvl(comm, 0) "MAANDSAL + COMM"
+from afdelingen a left outer join medewerkers m
+on a.anr =  m.afd(+)
+where a.naam like '%E%'
+order by AFDELING;
+
+
+Vraag 02
+col WEEKDAG format a32
+select distinct decode(to_char(to_date(gbdatum,'dd-mm-yyyy'),'d')
+, 1, 'MAANDAG'
+, 2, 'DINSDAG'
+, 3, 'WOENSDAG'
+, 4, 'DONDERDAG'
+, 5, 'VRIJDAG'
+, 6, 'ZATERDAG'
+, 7, 'ZONDAG') as "WEEKDAG", count(mnr) "Aantal Medewerkers"
+from medewerkers
+group by to_char(to_date(gbdatum,'dd-mm-yyyy'),'d')
+order by decode(WEEKDAG,'MAANDAG', 1, 'DINSDAG', 2, 'WOENSDAG', 3, 'DONDERDAG', 4, 'VRIJDAG', 5, 'ZATERDAG', 6, 'ZONDAG', 7);
+
+
+Vraag 03
+select type, count(code) "AantalPerType"
+from cursussen
+group by type
+having count(code) > 2;
+
+
+Vraag 04 
+select lower(naam) ||', ' || lower(substr(voorn, 0, 1)) "naam (klein)", maandsal + nvl(comm, 0) "som", extract(year from gbdatum) "geboortejaar"
+from medewerkers
+where ((maandsal + nvl(comm, 0)) / 15 = floor(maandsal + nvl(comm, 0)) / 15 
+or (maandsal + nvl(comm, 0)) / 15 = ceil(maandsal + nvl(comm, 0)) / 15)
+and extract(year from gbdatum) = 1985;
+
+
+Vraag 05
+select code, lower(omschrijving) omschrijving, lengte, 
+decode(lengte, 1, 'KORT', 2, 'MIDDEL', 3, 'MIDDEL', 4, 'MIDDEL', 5, 'LANG') "tekst"
+from cursussen
+order by lengte asc;
+
+
+Vraag 06
+select c.code, c.omschrijving, c.lengte, i.evaluatie, i.cursist
+from cursussen c join inschrijvingen i
+on c.code = i.cursus
+join medewerkers m 
+on i.cursist = m.mnr
+where evaluatie > 2 and m.naam in ('CLERCKX', 'SLECHTEN');
+
+
+Vraag 07
+select mnr from medewerkers
+where afd in (select anr from afdelingen where naam = 'OPLEIDINGEN')
+intersect
+select m.mnr from medewerkers m join uitvoeringen u
+on m.mnr = u.docent
+where u.begindatum > to_char(to_date('01-08-2015', 'dd-mm-yyyy')) and  u.begindatum < to_char(to_date('31-12-2015', 'dd-mm-yyyy'));
+
+
+Vraag 08
+update medewerkers
+set comm = comm + 100
+where mnr in (select cursist from inschrijvingen where cursus in ('LIN', 'WEB'));
+
+
+Vraag 09
+insert into cursussen (code, omschrijving, type, lengte)
+values ('PRI', 'Privacy', 'ALG', 3);
+
+insert into uitvoeringen (cursus, begindatum, docent, locatie)
+values ('PRI', to_date('02-02-2021', 'dd-mm-yyyy'), 7499, 'DIEPENBEEK');
+

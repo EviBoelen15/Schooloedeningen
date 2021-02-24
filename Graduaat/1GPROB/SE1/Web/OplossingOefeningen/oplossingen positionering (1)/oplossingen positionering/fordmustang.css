@@ -1,0 +1,70 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    margin: 0;
+}
+body {
+	background-image: url(assets/road.jpg);
+    background-attachment: fixed;
+}
+header {
+    background-image: url(assets/mustang_auto.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-color: #fff;
+    width: 1200px;
+    margin: 0px auto 10px auto;
+}
+header h1 {
+    padding: 130px 0px 130px 25px;
+    font-size: 50px;
+    text-shadow: 2px 2px #f00;
+}
+nav {
+    width: 1200px;
+    margin: 10px auto;
+    overflow: hidden;
+    background-color: #fff;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li img {
+    height:57px;
+    padding: 5px 15px 5px 0px;
+    float: left;
+}
+nav ul li a {
+    float: left;
+    color: #000;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+    font-size: 17px;
+}
+nav ul li a:hover, nav ul li a.active {
+    background-color: #000;
+    color: #fff;
+}
+main {
+    width: 1150px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #fff;
+}
+main h1 {
+    margin: 15px 0;
+}
+main ul li {
+    font-size: 14px;
+    line-height: 25px;
+}
+footer {
+    width: 1150px;
+    margin: 10px auto;
+    padding: 25px;
+    background-color: #fff;
+}
+footer p {
+    font-size: 14px;
+    text-align: center;
+}

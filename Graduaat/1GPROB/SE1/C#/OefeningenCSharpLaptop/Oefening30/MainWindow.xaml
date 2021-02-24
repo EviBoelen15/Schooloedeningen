@@ -1,0 +1,18 @@
+﻿<Window x:Class="Oefening30.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening30"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Decimaalgetal" HorizontalAlignment="Left" Margin="201,159,0,0" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Binairgetal" HorizontalAlignment="Left" Margin="201,230,0,0" VerticalAlignment="Top" Width="135"/>
+        <TextBox x:Name="txtDec" HorizontalAlignment="Left" Height="22" Margin="358,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <TextBox x:Name="txtBin" HorizontalAlignment="Left" Height="22" Margin="358,230,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <Button x:Name="btnDec" Content="Omzetten (0 - 255)" HorizontalAlignment="Left" Margin="570,163,0,0" VerticalAlignment="Top" Width="146" Height="41" Click="btnDec_Click"/>
+        <Button x:Name="btnAlles" Content="Alles omzetten" HorizontalAlignment="Left" Margin="570,222,0,0" VerticalAlignment="Top" Width="146" Height="41" Click="btnAlles_Click"/>
+
+    </Grid>
+</Window>

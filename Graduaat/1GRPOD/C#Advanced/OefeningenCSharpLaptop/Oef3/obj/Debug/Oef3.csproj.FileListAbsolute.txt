@@ -1,0 +1,15 @@
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\bin\Debug\Oef3.exe.config
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\bin\Debug\Oef3.exe
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\bin\Debug\Oef3.pdb
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.csprojAssemblyReference.cache
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\MainWindow.g.cs
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\App.g.cs
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3_MarkupCompile.cache
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3_MarkupCompile.lref
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\MainWindow.baml
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.g.resources
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.Properties.Resources.resources
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.csproj.GenerateResource.cache
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.csproj.CoreCompileInputs.cache
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.exe
+D:\Graduaat\1GRPOD\C#Advanced\OefeningenCSharpLaptop\Oef3\obj\Debug\Oef3.pdb

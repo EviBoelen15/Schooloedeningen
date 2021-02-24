@@ -1,0 +1,12 @@
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.exe
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.deps.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.runtimeconfig.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\bin\Debug\netcoreapp3.1\CS_Console.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.AssemblyInfo.cs
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Console\obj\Debug\netcoreapp3.1\CS_Console.genruntimeconfig.cache

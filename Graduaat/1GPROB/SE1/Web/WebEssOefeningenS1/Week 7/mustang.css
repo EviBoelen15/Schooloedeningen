@@ -1,0 +1,59 @@
+body {
+    background-image: url(assets/road.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+#container {
+    width: 1200px;
+    margin: auto;
+}
+nav ul{
+    background-color: white;
+    overflow: hidden;
+}
+header {
+    background-color: white;
+    overflow: hidden;
+    width: 100%;
+}
+main {
+    background-color: white;
+
+}
+footer {
+    background-color: white;
+    height: 60px;
+}
+#navPic {
+    width: 70px;
+    height: auto;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+    padding: 25px;
+
+}
+a:hover li {
+    background-color: black;
+}
+#mustangLogo {
+    width: 50%;
+    float:right;
+}
+#headText {
+    text-align: center;
+    margin: 200px 0px 10px 0px;
+    text-shadow: 10px 10px 5px #513E3E;
+}
+article {
+    padding: 30px;
+    margin: auto;
+}
+footer {
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 15px;
+    line-height: 1.5;
+    display: block;
+}

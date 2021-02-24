@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+iframe {
+    border: none;
+    position: absolute;
+    top: 45px;
+    left: 142px;
+    width: 350px;
+    height: 644px;
+    overflow: auto;
+}
+figure {
+    position: absolute;
+    pointer-events: none;
+}
+figure img {
+    width: 550px;
+    height: 700px;
+}
+h1 {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    margin-top: 36px;
+    font-size: 36px;
+}
+nav img {
+    width: 40%;
+    margin: 4%;
+}

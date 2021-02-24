@@ -1,0 +1,89 @@
+body {
+	background-color: #ffffff;
+	color: white;
+	font: 12pt Arial, Helvetica, sans-serif;
+}
+#container {
+	margin: 0 auto;
+	width: 917px;
+	background-color: red;
+}
+figure, header, main, nav, section {
+	float: left;
+	padding: 15px;
+	margin: 10px;
+	border: 1px solid black;
+}
+h1 {
+	font-weight: bold;
+	font-size: 24px;
+}
+figure {
+	padding: 0;
+}
+figure img {
+	width: 333px;
+	height: 170px;
+	display: block;
+}
+header {
+	height: 140px;
+	width: 510px;
+	background-color: #000;
+}
+nav {
+	clear: left;
+	height: 500px;
+	width: 123px;
+	background-color: #000;
+}
+nav ul {
+	padding-left: 0;
+	list-style-type: none;
+}
+nav ul li a {
+	text-decoration: none;
+	line-height: 25px;
+	color: #ffffff;
+}
+nav ul li a:hover, nav ul li a.active {
+	font-style: italic;
+	font-weight: bold;
+	color: #fff;
+}
+section {
+	background-color: #dedede;
+  	color: black;
+	height: 500px;
+	width: 690px;
+	float: left;
+}
+section img {
+	width: 220px;
+
+}
+section img.left {
+	float: left;
+	margin: 0 30px 30px 0;
+}
+section img.right {
+	clear: left;
+	float: right;
+	margin: 0 30px 30px 30px;
+}
+section h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+section h2.lefttext {
+	clear: right;
+}
+section h2.righttext {
+	clear: left;
+}
+section p {
+	font-size: 14px;
+}
+
+
+

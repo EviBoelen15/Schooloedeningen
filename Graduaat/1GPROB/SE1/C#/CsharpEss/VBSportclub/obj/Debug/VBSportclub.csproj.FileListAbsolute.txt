@@ -1,0 +1,15 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\bin\Debug\VBSportclub.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\bin\Debug\VBSportclub.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\bin\Debug\VBSportclub.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\VBSportclub\obj\Debug\VBSportclub.csprojAssemblyReference.cache

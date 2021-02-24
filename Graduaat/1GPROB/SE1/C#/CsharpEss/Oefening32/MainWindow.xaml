@@ -1,0 +1,26 @@
+﻿<Window x:Class="Oefening32.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening32"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lbSingle" SelectionMode="Single" HorizontalAlignment="Left" Height="270" Margin="38,37,0,0" VerticalAlignment="Top" Width="108"/>
+        <Button x:Name="btnVervang" Content="Vervangen" HorizontalAlignment="Left" Margin="291,63,0,0" VerticalAlignment="Top" Width="86" Height="37" Click="btnVervang_Click"/>
+        <Button x:Name="btnWisItem" Content="Item verwijderen" HorizontalAlignment="Left" Margin="38,354,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="btnWisItem_Click"/>
+        <Button x:Name="btnToevoegen" Content="Toevoegen" HorizontalAlignment="Left" Margin="291,140,0,0" VerticalAlignment="Top" Width="86" Height="37" Click="btnToevoegen_Click"/>
+        <Button x:Name="btnZoeken" Content="Zoeken" HorizontalAlignment="Left" Margin="291,214,0,0" VerticalAlignment="Top" Width="86" Height="37" Click="btnZoeken_Click"/>
+        <ListBox x:Name="lbMultiple" SelectionMode="Multiple" HorizontalAlignment="Left" Height="270" Margin="412,37,0,0" VerticalAlignment="Top" Width="108" SelectionChanged="lbMultiple_SelectionChanged"/>
+        <Button x:Name="btnWisListbox" Content="Listbox Wissen" HorizontalAlignment="Left" Margin="231,354,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="btnWisListbox_Click"/>
+        <Button x:Name="btnSorteren" Content="Sorteren" HorizontalAlignment="Left" Margin="412,354,0,0" VerticalAlignment="Top" Width="108" Height="37" Click="btnSorteren_Click"/>
+        <TextBox x:Name="txtVervang" HorizontalAlignment="Left" Height="37" Margin="166,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtToevoegen" HorizontalAlignment="Left" Height="37" Margin="166,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtZoeken" HorizontalAlignment="Left" Height="37" Margin="166,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtAantalItems" HorizontalAlignment="Left" Height="37" Margin="557,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204"/>
+        <Label x:Name="lblZoeken" Content="" HorizontalAlignment="Left" Margin="166,267,0,0" VerticalAlignment="Top" Width="211" Foreground="#FFFF2300"/>
+
+
+    </Grid>
+</Window>

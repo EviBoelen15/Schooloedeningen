@@ -1,0 +1,13 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.deps.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.runtimeconfig.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.runtimeconfig.dev.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.dll
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\bin\Debug\netcoreapp3.1\Oefening39.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.AssemblyInfoInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.AssemblyInfo.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.dll
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening39\obj\Debug\netcoreapp3.1\Oefening39.genruntimeconfig.cache

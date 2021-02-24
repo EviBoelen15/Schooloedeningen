@@ -1,0 +1,39 @@
+body {
+    background-color:lightblue;
+}
+#container {
+    width: 60%;
+    margin: auto;
+}
+h1 {
+    text-decoration-line: overline underline;
+    text-align: center;
+}
+#spiderman {
+    width: 35%;
+    float: right;
+}
+#spiderman h4 {
+    border: solid red;
+}
+#map {
+    width: 65%;
+    float: left;
+}
+img {
+    width: 100%;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+    padding: 25px;
+}
+footer {
+    position: absolute;
+}
+#a {
+    border: solid pink 5px;
+}
+#b {
+    border: solid pink 5px;
+}

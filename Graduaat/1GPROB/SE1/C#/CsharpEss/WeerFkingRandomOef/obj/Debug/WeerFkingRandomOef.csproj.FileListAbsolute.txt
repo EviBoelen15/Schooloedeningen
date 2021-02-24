@@ -1,0 +1,5 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\WeerFkingRandomOef\obj\Debug\WeerFkingRandomOef.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\WeerFkingRandomOef\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\WeerFkingRandomOef\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\WeerFkingRandomOef\obj\Debug\WeerFkingRandomOef_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\WeerFkingRandomOef\obj\Debug\WeerFkingRandomOef_MarkupCompile.lref

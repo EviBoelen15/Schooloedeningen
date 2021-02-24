@@ -1,0 +1,13 @@
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.exe
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.deps.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.runtimeconfig.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\bin\Debug\netcoreapp3.1\CS_Oefening_02.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.AssemblyInfo.cs
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Extra_Console_Iteratie\CS_Oefening_02\obj\Debug\netcoreapp3.1\CS_Oefening_02.genruntimeconfig.cache

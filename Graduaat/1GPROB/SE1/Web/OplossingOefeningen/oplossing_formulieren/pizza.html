@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza bestelformulier</title>
+    <link rel="stylesheet" href="pizza.css">
+</head>
+<body>
+<header>
+    <h1>Pizzacorner Hasselt</h1>
+</header>
+<main>
+    <h1>Stel uw eigen pizza samen!</h1>
+    <form action="mailto:kimberly.willems@pxl.be?subject=Bestelling Pizzacorner" method="post" enctype="text/plain">
+        <!-- Voornaam en naam -->
+        <label for="naam" class="bold">Voornaam en naam</label><br>
+        <input id="naam" name="naam" type="text" required="required"/><br><br>
+        <!-- Korst -->
+        <label class="bold">Type korst</label><br>
+        <input id="klassiek" name="korst" type="radio" value="Klassiek"/><label for="klassiek">Klassiek</label>
+        <input id="italiaans" name="korst" type="radio" value="italiaans"/><label for="italiaans">Italiaans</label>
+        <input id="amerikaans" name="korst" type="radio" value="amerikaans"/><label
+            for="amerikaans">Amerikaans</label><br><br>
+        <!-- Toppings -->
+        <label class="bold">Toppings</label><br>
+        <article id="deel1">
+            <input type="checkbox" name="hesp" id="hesp"/><label for="hesp">Hesp</label><br>
+            <input type="checkbox" name="champignons" id="champignons"/><label for="champignons">Champignons</label><br>
+            <input type="checkbox" name="tomaat" id="tomaat"/><label for="tomaat">Tomaat</label><br>
+            <input type="checkbox" name="kaas" id="kaas"/><label for="kaas">Kaas</label><br>
+            <input type="checkbox" name="paprika" id="paprika"/><label for="paprika">Paprika</label><br><br>
+        </article>
+        <article id="deel2">
+            <input type="checkbox" name="scampi" id="scampi"/><label for="scampi">Scampi</label><br>
+            <input type="checkbox" name="tonijn" id="tonijn"/><label for="tonijn">Tonijn</label><br>
+            <input type="checkbox" name="salami" id="salami"/><label for="salami">Salami</label><br>
+            <input type="checkbox" name="kip" id="kip"/><label for="kip">Kip</label><br>
+            <input type="checkbox" name="shoarma" id="shoarma"/><label for="shoarma">Shoarma</label><br><br>
+        </article>
+        <article id="deel3">
+            <input type="checkbox" name="ajuin" id="ajuin"/><label for="ajuin">Ajuin</label><br>
+            <input type="checkbox" name="artisjok" id="artisjok"/><label for="artisjok">Artisjok</label><br>
+            <input type="checkbox" name="mais" id="mais"/><label for="mais">Maïs</label><br>
+            <input type="checkbox" name="mozzarella" id="mozzarella"/><label for="mozzarella">Mozzarella</label><br>
+            <input type="checkbox" name="ananas" id="ananas" disabled="disabled"/><label for="ananas">Ananas</label><br><br>
+        </article>
+        <!-- Opmerkingen -->
+        <label for="opmerkingen" class="bold">Opmerkingen</label><br>
+        <textarea id="opmerkingen" name="opmerkingen" cols="140" rows="6"></textarea><br><br>
+        <!-- Betaalwijze -->
+        <label for="betaalwijze" class="bold">Betaalwijze</label><br>
+        <input list="paymentlist" id="betaalwijze" name="betaalwijze" required="required"/><br><br>
+        <datalist id="paymentlist">
+            <option value="Bancontact">
+            <option value="VISA">
+            <option value="Paypal">
+            <option value="Bitcoin">
+            <option value="Cash">
+        </datalist>
+        <!-- Bestelknop -->
+        <input type="submit" name="bestellen" id="bestellen" value="Bestel!"/>
+    </form>
+</main>
+</body>
+</html>

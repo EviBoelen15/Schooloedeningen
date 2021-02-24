@@ -1,0 +1,15 @@
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\bin\Debug\Oefening23.exe.config
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\bin\Debug\Oefening23.exe
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\bin\Debug\Oefening23.pdb
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.csprojAssemblyReference.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\MainWindow.g.cs
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\App.g.cs
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23_MarkupCompile.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23_MarkupCompile.lref
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\MainWindow.baml
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.g.resources
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.Properties.Resources.resources
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.csproj.GenerateResource.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.csproj.CoreCompileInputs.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.exe
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening23\obj\Debug\Oefening23.pdb

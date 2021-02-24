@@ -1,0 +1,25 @@
+﻿<Window x:Class="Oefening4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="153,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="153,139,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="153,201,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="153,260,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.467,0.568"/>
+        <Button x:Name="btnCont" Content="Controle Nummer" HorizontalAlignment="Left" Margin="547,85,0,0" VerticalAlignment="Top" Width="130" Click="btnCont_Click"/>
+        <Button x:Name="btnBereken" Content="Berekenen" HorizontalAlignment="Left" Margin="547,142,0,0" VerticalAlignment="Top" Width="130" Click="btnBereken_Click"/>
+        <Button x:Name="btnWissen" Content="Wissen" HorizontalAlignment="Left" Margin="547,207,0,0" VerticalAlignment="Top" Width="130" Click="btnWissen_Click"/>
+        <Button x:Name="btnSluiten" Content="Sluiten" HorizontalAlignment="Left" Margin="547,266,0,0" VerticalAlignment="Top" Width="130" Click="btnSluiten_Click"/>
+        <TextBox x:Name="txtOnd" HorizontalAlignment="Left" Height="23" Margin="288,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBetalen" HorizontalAlignment="Left" Height="23" Margin="288,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAantal" HorizontalAlignment="Left" Height="23" Margin="288,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrijs" HorizontalAlignment="Left" Height="23" Margin="288,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtContr" HorizontalAlignment="Left" Height="23" Margin="435,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65"/>
+
+    </Grid>
+</Window>

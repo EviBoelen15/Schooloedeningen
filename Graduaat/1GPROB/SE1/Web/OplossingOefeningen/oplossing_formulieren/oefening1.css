@@ -1,0 +1,39 @@
+* {
+    font-family: Calibri, sans-serif;
+    box-sizing: border-box;
+}
+form {
+    width: 575px;
+}
+label {
+    display: inline-block;
+    width: 90px;
+    margin: 5px 0;
+    padding: 5px;
+}
+input {
+    display: inline-block;
+    width: 190px;
+    margin: 5px 0;
+    padding: 5px;
+}
+label[for="bus"] {
+    width: 57px;
+}
+input#nr, input#bus {
+    width: 63px;
+}
+@media screen and (max-width: 600px) {
+    label, input {
+        width: 100%;        margin: 0.5% 0;
+    }
+    label[for="bus"] {
+        width: 100%;
+    }
+    input#nr, input#bus {
+        width: 100%;
+    }
+    input[type="submit"], input[type="reset"] {
+        margin-top: 3%;
+    }
+}

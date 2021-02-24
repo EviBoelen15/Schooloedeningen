@@ -1,0 +1,74 @@
+body {
+    color: black;
+    width: 70%;
+    margin: auto;
+}
+
+#headPic{
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+#headText {
+    width: 850px;
+    height: 135px;
+    background-color: black;
+    color: white;
+    padding: 15px 0px 40px 15px;
+    float: right;
+}
+nav {
+    float: left;
+    width: 13%;
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+nav h1 {
+    margin-left: 16px;
+}
+nav ul li {
+    list-style-type: none;
+    padding-left: -35px;
+    margin: 15px 15px 0px -20px;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+#container {
+    background: gray;
+    width: 85%;
+    height: 500px;
+    float: right;
+    border: solid black;
+}
+img.left {
+    float: left;
+    width: 20%;
+    height: auto;
+    margin: 10px;
+}
+img.right {
+    float: right;
+    width: 20%;
+    height: auto;
+    margin: 10px;
+}
+div.left {
+    float: left;
+    width: 75%;
+    height: auto;
+    margin: 5px;
+}
+div.right {
+    float: right;
+    width: 75%;
+    height: auto;
+    
+}

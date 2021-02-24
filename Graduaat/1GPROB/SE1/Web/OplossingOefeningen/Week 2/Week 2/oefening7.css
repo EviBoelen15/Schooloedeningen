@@ -1,0 +1,26 @@
+body {
+  background-color: #151c28;
+}
+
+h1 {
+  color: #ffe14f;
+  text-align: center;
+  font-size: 3em;
+}
+
+article {
+  border: 2px solid #ffe14f;
+  border-radius: 6px;
+  padding: 8px;
+  width: 30%;
+  margin: 10px auto;
+}
+
+article > img {
+  height: 128px;
+}
+
+article:hover {
+  background-color: #8daec6;
+  cursor: pointer;
+}

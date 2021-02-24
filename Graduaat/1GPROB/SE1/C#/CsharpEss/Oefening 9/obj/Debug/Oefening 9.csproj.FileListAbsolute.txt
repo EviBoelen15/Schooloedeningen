@@ -1,0 +1,30 @@
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\bin\Debug\Oefening 9.exe.config
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\bin\Debug\Oefening 9.exe
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\bin\Debug\Oefening 9.pdb
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csprojAssemblyReference.cache
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\MainWindow.g.cs
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\App.g.cs
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9_MarkupCompile.cache
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9_MarkupCompile.lref
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\MainWindow.baml
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.g.resources
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening_9.Properties.Resources.resources
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csproj.GenerateResource.cache
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csproj.CoreCompileInputs.cache
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.exe
+C:\Users\evibo\source\repos\CsharpEss\Oefening 9\obj\Debug\Oefening 9.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\bin\Debug\Oefening 9.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\bin\Debug\Oefening 9.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\bin\Debug\Oefening 9.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening_9.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening 9\obj\Debug\Oefening 9.pdb

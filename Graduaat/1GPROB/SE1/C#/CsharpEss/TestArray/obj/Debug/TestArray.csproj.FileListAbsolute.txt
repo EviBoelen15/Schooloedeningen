@@ -1,0 +1,15 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\bin\Debug\TestArray.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\bin\Debug\TestArray.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\bin\Debug\TestArray.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\TestArray\obj\Debug\TestArray.pdb

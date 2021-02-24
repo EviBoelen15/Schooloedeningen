@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixjxiK4UVtaUpzDy4biahdofrGhS1tpr+e3RNGdmDSgi4mUct8ns9/PRZ1xwdDgaZo4nwmMYuGViJK6cr1tROw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\Desktop\\CS_Essentials\\CS_Oefeningen_Extra_Console_Iteratie\\CS_Oefeningen_Extra_Console_Iteratie\\CS_Oefeningen_Extra_Console_Iteratie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

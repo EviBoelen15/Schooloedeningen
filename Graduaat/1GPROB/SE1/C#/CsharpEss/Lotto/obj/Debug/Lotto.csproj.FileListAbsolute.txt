@@ -1,0 +1,14 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\bin\Debug\Lotto.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\bin\Debug\Lotto.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\bin\Debug\Lotto.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Lotto\obj\Debug\Lotto.pdb

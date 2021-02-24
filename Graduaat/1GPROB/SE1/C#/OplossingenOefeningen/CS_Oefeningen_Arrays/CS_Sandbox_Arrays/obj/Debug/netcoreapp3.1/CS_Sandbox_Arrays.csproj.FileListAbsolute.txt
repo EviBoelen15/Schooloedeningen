@@ -1,0 +1,13 @@
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.exe
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.deps.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.runtimeconfig.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\bin\Debug\netcoreapp3.1\CS_Sandbox_Arrays.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.AssemblyInfo.cs
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.dll
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.genruntimeconfig.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Sandbox_Arrays\obj\Debug\netcoreapp3.1\CS_Sandbox_Arrays.csprojAssemblyReference.cache

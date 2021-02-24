@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+main {
+  margin-bottom: 80px;
+}
+main section {
+  width: 20vw;
+  height: 20vw;
+  margin: 2vw;
+  background-color: #35943e;
+  float: left;
+}
+main section:hover {
+  background-color: #246429;
+  cursor: pointer;
+}
+div.clear {
+  clear: both;
+  height: 0;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 30px;
+  background-color: #000000;
+  text-align: center;
+  color: #ffffff;
+  font-family: Verdana, Arial, sans-serif;
+}

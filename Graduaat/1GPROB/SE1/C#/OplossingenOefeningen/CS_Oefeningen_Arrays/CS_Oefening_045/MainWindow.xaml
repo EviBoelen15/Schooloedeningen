@@ -1,0 +1,24 @@
+﻿<Window x:Class="CS_Oefening_045.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_045"
+        mc:Ignorable="d"
+        Title="Kluis" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TxtCode" HorizontalAlignment="Left" Height="33" Margin="49,342,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="276" IsEnabled="False" 
+                 Background="{ DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}" FontFamily="Consolas" Foreground="White" FontWeight="Bold"/>
+        <StackPanel HorizontalAlignment="Left" Height="289" Margin="49,32,0,0" VerticalAlignment="Top" Width="280" Background="{ DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}"/>
+        <Button x:Name="Button7" Content="7" HorizontalAlignment="Left" Margin="79,54,0,0" VerticalAlignment="Top" Width="51" Height="48" IsDefault="True" Click="Button_Click"/>
+        <Button x:Name="Button8" Content="8" HorizontalAlignment="Left" Margin="157,54,0,0" VerticalAlignment="Top" Width="52" Height="48" IsDefault="True" Click="Button_Click"/>
+        <Button x:Name="Button9" Content="9" HorizontalAlignment="Left" Margin="238,54,0,0" VerticalAlignment="Top" Width="51" Height="48" IsDefault="True" Click="Button_Click"/>
+        <Button x:Name="Button6" Content="6" HorizontalAlignment="Left" Margin="235,123,0,0" VerticalAlignment="Top" Width="51" Height="47" IsCancel="True" Click="Button_Click" />
+        <Button x:Name="Button4" Content="4" HorizontalAlignment="Left" Margin="80,123,0,0" VerticalAlignment="Top" Width="51" Height="47" IsCancel="True" Click="Button_Click" />
+        <Button x:Name="Button5" Content="5" HorizontalAlignment="Left" Margin="157,123,0,0" VerticalAlignment="Top" Width="52" Height="47" IsCancel="True" Click="Button_Click" />
+        <Button x:Name="Button3" Content="3" HorizontalAlignment="Left" Margin="237,191,0,0" VerticalAlignment="Top" Width="49" Height="45" RenderTransformOrigin="0.571,1.429" Click="Button_Click"/>
+        <Button x:Name="Button1" Content="1" HorizontalAlignment="Left" Margin="80,191,0,0" VerticalAlignment="Top" Width="51" Height="48" RenderTransformOrigin="0.571,1.429" Click="Button_Click"/>
+        <Button x:Name="Button2" Content="2" HorizontalAlignment="Left" Margin="157,191,0,0" VerticalAlignment="Top" Width="52" Height="48" RenderTransformOrigin="0.571,1.429" Click="Button_Click"/>
+        <Button x:Name="Button0" Content="0" HorizontalAlignment="Left" Margin="80,262,0,0" VerticalAlignment="Top" Width="51" Height="47" RenderTransformOrigin="0.571,1.429" Click="Button_Click"/>
+    </Grid>
+</Window>

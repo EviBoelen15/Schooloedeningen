@@ -1,0 +1,23 @@
+body {
+    background-color: #d9ddd7;
+    font-style: Verdana; 
+}
+h1 {
+    color: #013220;
+}
+
+p {
+    background-color: #6a7689;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.fst {
+    list-style-type:none;
+    float: left;
+    margin: 2em;
+}
+img {
+    display: block;
+    margin-bottom: 2em;
+}

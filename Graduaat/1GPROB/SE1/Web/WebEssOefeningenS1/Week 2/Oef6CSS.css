@@ -1,0 +1,77 @@
+body {
+    font-family:'Roboto';
+    background-color: grey;
+}
+div {
+    float: left;
+}
+.fst {
+    background-color: lightgray;
+    font-size: 1em;
+    text-align: center;
+    width: 15%;
+    margin: 2em;
+    padding: 10px;
+    list-style-type:none;
+    float: left;
+
+    border-style: solid;
+    border-radius: 1.5em;
+    border-color: darkslategrey;
+}
+.lifst {
+    list-style-type: none;
+    margin: 1.5em;
+    padding: 1.5em;
+    width: 90%;
+    height: 20%;
+
+    border-style: solid;
+    border-color: orangered;
+}
+
+#pkp {
+    background-color:pink;
+}
+#rw {
+    background-color: red;
+}
+#tml {
+    background-color: blueviolet;
+}
+#gmm {
+    background-color:green;
+}
+#d {
+    background-color: white;
+}
+
+.alb {
+    list-style-image: url('images/multimedia-22-512.png');
+}
+
+img {
+    display: block;
+    margin-bottom: 2em;
+}
+
+ul {
+    margin-bottom : 20px;
+}
+a:link .fst {
+	color:4C4C4C;
+	text-decoration: none;
+}
+a:visited .fst {
+	color: 4C4C4C;
+	text-decoration: none;
+}
+a:active .fst{
+	color: pink;
+	text-decoration: none;
+}
+a:hover .fst {
+    color:red;
+    background-color: pink; 
+	text-decoration: none;
+}

@@ -1,0 +1,13 @@
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.exe
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.deps.json
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.runtimeconfig.json
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.runtimeconfig.dev.json
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.dll
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\bin\Debug\netcoreapp3.1\Oefening35.pdb
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.csprojAssemblyReference.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.AssemblyInfoInputs.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.AssemblyInfo.cs
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.csproj.CoreCompileInputs.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.dll
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.pdb
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening35\obj\Debug\netcoreapp3.1\Oefening35.genruntimeconfig.cache

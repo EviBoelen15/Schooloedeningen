@@ -1,0 +1,15 @@
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\bin\Debug\Oefening30.exe.config
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\bin\Debug\Oefening30.exe
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\bin\Debug\Oefening30.pdb
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.csprojAssemblyReference.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\MainWindow.g.cs
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\App.g.cs
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30_MarkupCompile.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30_MarkupCompile.lref
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\MainWindow.baml
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.g.resources
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.Properties.Resources.resources
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.csproj.GenerateResource.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.csproj.CoreCompileInputs.cache
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.exe
+D:\Graduaat\1GPROB\SE1\C#\OefeningenCSharpLaptop\Oefening30\obj\Debug\Oefening30.pdb

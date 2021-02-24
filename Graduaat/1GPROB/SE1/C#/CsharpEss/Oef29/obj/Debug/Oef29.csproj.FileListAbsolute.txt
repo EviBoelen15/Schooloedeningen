@@ -1,0 +1,15 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\bin\Debug\Oef29.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\bin\Debug\Oef29.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\bin\Debug\Oef29.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oef29\obj\Debug\Oef29.pdb

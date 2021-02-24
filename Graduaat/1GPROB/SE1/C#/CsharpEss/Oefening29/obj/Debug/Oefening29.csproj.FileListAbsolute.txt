@@ -1,0 +1,4 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening29\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening29\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening29\obj\Debug\Oefening29_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening29\obj\Debug\Oefening29_MarkupCompile.lref

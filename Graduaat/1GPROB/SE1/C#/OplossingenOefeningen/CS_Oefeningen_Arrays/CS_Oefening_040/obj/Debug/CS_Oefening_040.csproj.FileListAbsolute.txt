@@ -1,0 +1,7 @@
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\bin\Debug\CS_Oefening_040.exe.config
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\bin\Debug\CS_Oefening_040.exe
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\bin\Debug\CS_Oefening_040.pdb
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\obj\Debug\CS_Oefening_040.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\obj\Debug\CS_Oefening_040.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\obj\Debug\CS_Oefening_040.exe
+C:\Users\Tom\Desktop\CS_Essentials\CS_Oefeningen_Arrays\CS_Oefening_040\obj\Debug\CS_Oefening_040.pdb

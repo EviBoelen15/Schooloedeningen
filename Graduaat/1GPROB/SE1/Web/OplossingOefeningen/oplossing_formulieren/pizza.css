@@ -1,0 +1,83 @@
+* {
+    font-family: Calibri, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #eeeeee;
+}
+header {
+    background-color: #000000;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+header h1 {
+    padding: 20px 200px;
+    color: #000000;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+main {
+    margin: 25px auto;
+    width: 1200px;
+    padding: 50px;
+    background-color: #ffffff;
+}
+main h1 {
+    margin-bottom: 20px;
+}
+input[type=text], input[list="paymentlist"], input[type=submit] {
+    width: 300px;
+}
+input[type=submit] {
+    width: 200px;
+}
+input, textarea {
+    margin: 10px 10px 0 0;
+    padding: 5px;
+}
+label {
+    padding: 5px 20px 15px 0;
+}
+label.bold {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+article {
+    width: 33%;
+    float: left;
+}
+textarea {
+    width: 90%;
+}
+@media screen and (max-width: 1200px) {
+    header h1 {
+        padding: 20px 125px;
+    }
+    main {
+        width: 100%;
+        margin: 0;
+        padding: 25px;
+    }
+    body {
+        background-color: #ffffff;
+    }
+}
+@media screen and (max-width: 600px) {
+    header h1 {
+        padding: 20px 50px;
+    }
+    article#deel1, article#deel2 {
+        width: 50%;
+    }
+    article#deel3 {
+        width: 100%;
+        float:none;
+    }
+}
+
+

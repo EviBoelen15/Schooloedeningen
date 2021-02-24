@@ -1,0 +1,15 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\bin\Debug\Oefening25.exe.config
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\bin\Debug\Oefening25.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\bin\Debug\Oefening25.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\MainWindow.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\App.g.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25_MarkupCompile.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25_MarkupCompile.lref
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\MainWindow.baml
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.g.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.Properties.Resources.resources
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.csproj.GenerateResource.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\Oefening25\obj\Debug\Oefening25.pdb

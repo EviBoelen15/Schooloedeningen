@@ -1,0 +1,13 @@
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.exe
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.deps.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.runtimeconfig.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.runtimeconfig.dev.json
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.dll
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\bin\Debug\netcoreapp3.1\text.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.csprojAssemblyReference.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.AssemblyInfoInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.AssemblyInfo.cs
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.csproj.CoreCompileInputs.cache
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.dll
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.pdb
+D:\School\PXL\Graduaat\1GPROB\SE1\c#\CsharpEss\text\obj\Debug\netcoreapp3.1\text.genruntimeconfig.cache
