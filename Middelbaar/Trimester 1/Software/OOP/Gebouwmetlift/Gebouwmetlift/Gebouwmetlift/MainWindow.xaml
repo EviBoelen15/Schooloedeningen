@@ -1,0 +1,13 @@
+﻿<Window x:Class="Gebouwmetlift.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gebouwmetlift"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="525">
+    <Canvas x:Name="cnvGebouw" HorizontalAlignment="Left" Height="500" VerticalAlignment="Top" Width="100" Margin="10,10,0,0" Background="Black">
+        <Button x:Name="btnLiftGo" Content="Ga naar verdieping" Canvas.Left="182" Canvas.Top="26" Width="218" Height="99" Background="#FF4E75CB" FontWeight="Bold" FontSize="14" Click="btnLiftGo_Click"/>
+        <TextBox x:Name="txtBestemming" Height="65" TextWrapping="Wrap" Width="128" Canvas.Left="232" Canvas.Top="130" TextAlignment="Center"/>
+    </Canvas>
+</Window>

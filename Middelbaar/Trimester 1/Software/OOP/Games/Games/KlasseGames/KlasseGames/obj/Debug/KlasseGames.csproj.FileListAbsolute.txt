@@ -1,0 +1,5 @@
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\Games\KlasseGames\KlasseGames\bin\Debug\KlasseGames.dll
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\Games\KlasseGames\KlasseGames\bin\Debug\KlasseGames.pdb
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\Games\KlasseGames\KlasseGames\obj\Debug\KlasseGames.csprojResolveAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\Games\KlasseGames\KlasseGames\obj\Debug\KlasseGames.dll
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\Games\KlasseGames\KlasseGames\obj\Debug\KlasseGames.pdb

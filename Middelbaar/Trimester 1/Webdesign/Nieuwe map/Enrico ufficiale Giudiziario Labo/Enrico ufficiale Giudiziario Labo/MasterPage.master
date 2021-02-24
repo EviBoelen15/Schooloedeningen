@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="Wrapper">
+        <p>Welkom op onze webpagina!</p>
+           <div id="Header"></div>
+            <div id="Content">
+                <div id="Links">
+                    <ul>
+                        <li>Producten</li>
+                        <li>Streekproducten</li>
+                        <li>Weetjes</li>
+                        <li>Prijsberekening</li>
+                        <li>Vraag en antwoord</li>
+                    </ul>
+                </div>
+                <div id="Tekst">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div id="Footer"><p>Neem steeds vrijblijvend contact met ons op.</p>
+                             <p>Lees onze privacyvoorwaarden hier.</p>
+            </div>
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,44 @@
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe.config
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.pdb
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csprojResolveAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\App.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.lref
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.baml
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.g.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.Properties.Resources.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csproj.GenerateResource.Cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.pdb
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe.config
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.pdb
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csprojAssemblyReference.cache
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.g.cs
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\App.g.cs
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.cache
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.lref
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.baml
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.g.resources
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.Properties.Resources.resources
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csproj.GenerateResource.cache
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csproj.CoreCompileInputs.cache
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.exe
+R:\Programmeren\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe.config
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\bin\Debug\Gebouwmetlift.pdb
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csprojAssemblyReference.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.g.cs
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\App.g.cs
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift_MarkupCompile.lref
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\MainWindow.baml
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.g.resources
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.Properties.Resources.resources
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csproj.GenerateResource.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.csproj.CoreCompileInputs.cache
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.exe
+C:\Users\Pinkk\Documents\School\6ITN\Trimester 1\Software\OOP\Gebouwmetlift\Gebouwmetlift\Gebouwmetlift\obj\Debug\Gebouwmetlift.pdb

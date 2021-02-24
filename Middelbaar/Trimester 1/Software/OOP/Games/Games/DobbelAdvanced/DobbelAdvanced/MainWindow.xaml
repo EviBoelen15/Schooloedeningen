@@ -1,0 +1,30 @@
+﻿<Window x:Class="DobbelAdvanced.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DobbelAdvanced"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btndobbelgwn" Content="Gewone klasse dobbelsteen" HorizontalAlignment="Left" Margin="107,38,0,0" VerticalAlignment="Top" Width="255" Height="26" Click="btndobbelgwn_Click"/>
+        <Button x:Name="btn12" Content="Dobbelsteen met 12 zijde" HorizontalAlignment="Left" Margin="107,86,0,0" VerticalAlignment="Top" Width="255" Height="28" Click="btn12_Click"/>
+        <Button x:Name="btnx" Content="Dobbelsteen met x-aantal zijden" HorizontalAlignment="Left" Margin="107,250,0,0" VerticalAlignment="Top" Width="255" Height="28" Click="btnx_Click"/>
+        <ListBox x:Name="lbgetallen" HorizontalAlignment="Left" Height="27" Margin="107,207,0,0" VerticalAlignment="Top" Width="255">
+            <ListBoxItem Content="1"/>
+            <ListBoxItem Content="2"/>
+            <ListBoxItem Content="3"/>
+            <ListBoxItem Content="4"/>
+            <ListBoxItem Content="5"/>
+            <ListBoxItem Content="6"/>
+            <ListBoxItem Content="7"/>
+            <ListBoxItem Content="8"/>
+            <ListBoxItem Content="9"/>
+            <ListBoxItem Content="10"/>
+            <ListBoxItem Content="11"/>
+            <ListBoxItem Content="12"/>
+            <ListBoxItem Content="13"/>
+            <ListBoxItem Content="14"/>
+         </ListBox>
+    </Grid>
+</Window>

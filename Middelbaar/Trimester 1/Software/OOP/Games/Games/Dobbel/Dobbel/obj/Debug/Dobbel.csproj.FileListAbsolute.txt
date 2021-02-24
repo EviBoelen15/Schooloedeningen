@@ -1,0 +1,15 @@
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\bin\Debug\Dobbel.exe.config
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\bin\Debug\Dobbel.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\bin\Debug\Dobbel.pdb
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\bin\Debug\KlasseGames.dll
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.csprojResolveAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\MainWindow.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\App.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel_MarkupCompile.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel_MarkupCompile.lref
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\MainWindow.baml
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.g.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.Properties.Resources.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.csproj.GenerateResource.Cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\Dobbel\Dobbel\obj\Debug\Dobbel.pdb

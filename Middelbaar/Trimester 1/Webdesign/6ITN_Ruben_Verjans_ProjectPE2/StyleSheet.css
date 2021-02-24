@@ -1,0 +1,27 @@
+﻿
+body{
+    background-color: #C0C0C0;
+    border: medium solid #000000;
+}
+h1{
+    border: thin solid #000000;
+    text-align:center;
+    background-color:green;
+}
+
+
+ul {
+    margin-right: 1000px;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight:bold;
+}
+#Textinhoud {
+    border: thin solid #000000;
+    background-color:white;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lblInformatie {
+    margin: 0px;
+}

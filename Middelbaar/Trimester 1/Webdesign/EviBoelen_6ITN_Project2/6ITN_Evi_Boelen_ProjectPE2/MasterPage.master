@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Opmaak.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="Wrapper">
+           <div id="Header">
+               <div id="foto1">
+                   <img src="Images/bodybuilder-drawing-logo-D15163E558-seeklogo.com.png" /></div>
+               <div id="foto2">
+                   <img src="Images/transparent.png" /></div>
+           </div>
+            <div id="Content">
+                <div id="Sidebar">
+                    <div id="Option">
+                        <p class="Links"><a href="Default.aspx">Home</a></p>
+                        <p class ="Links"><a href="Controle.aspx">Controle</a></p></div>
+                        <p class ="Links"><a href="Invoeren.aspx">Bloedwaarde controleren</a></p></div>     
+                    </div>
+                <div id="Tekst">
+                    <h2>Bodybuilding wedstrijd / concorso di bodybuilding in Italia</h2>
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div id="Footer">
+            </div>
+    </form>
+</body>
+</html>

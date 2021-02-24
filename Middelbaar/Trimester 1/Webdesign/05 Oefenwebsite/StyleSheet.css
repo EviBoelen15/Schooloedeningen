@@ -1,0 +1,53 @@
+﻿body {
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    color: #669;
+    margin-right: 150px;
+    margin-left: 150px;
+   
+}
+h1 {
+    font-size: 1.3em;
+    margin-left: -60px;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-color: #669;
+}
+h2 {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+p {
+    margin-bottom: 5px;
+}
+#MiddenLinks {
+    width: 20%;
+    float: left;
+}
+#MiddenRechts {
+    width: 75%;
+    float: right;
+}
+#Top {
+    background-position: center;
+    background-image: url('Images/OefeningBaartKunst.jpg');
+    height: 129px;
+    background-repeat: no-repeat;
+}
+li {
+    list-style-type: none;
+    border-bottom-style: groove;
+    border-bottom-width: 5px;
+    border-bottom-color: #669;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: #669;
+}
+#Footer {
+    clear: both;
+    background-color: #669;
+    color: #FFFFFF;
+    height: 50px;
+    text-align: center;
+}
+

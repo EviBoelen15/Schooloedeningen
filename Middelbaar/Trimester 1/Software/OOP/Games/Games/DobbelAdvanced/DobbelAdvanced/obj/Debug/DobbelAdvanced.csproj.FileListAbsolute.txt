@@ -1,0 +1,17 @@
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\bin\Debug\DobbelAdvanced.exe.config
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\bin\Debug\DobbelAdvanced.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\bin\Debug\DobbelAdvanced.pdb
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\bin\Debug\KlasseGames.dll
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.csprojResolveAssemblyReference.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\MainWindow.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\WPFDobbelx.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\App.g.cs
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced_MarkupCompile.cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced_MarkupCompile.lref
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\MainWindow.baml
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\WPFDobbelx.baml
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.g.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.Properties.Resources.resources
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.csproj.GenerateResource.Cache
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.exe
+\\FLANDRIEN\evi.boelen$\Visual Studio 2017\Projects\OOP\Games\DobbelAdvanced\DobbelAdvanced\obj\Debug\DobbelAdvanced.pdb

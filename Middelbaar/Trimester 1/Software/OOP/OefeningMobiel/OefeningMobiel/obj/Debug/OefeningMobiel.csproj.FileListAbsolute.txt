@@ -1,0 +1,6 @@
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\obj\Debug\OefeningMobiel.csproj.CoreCompileInputs.cache
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\bin\Debug\OefeningMobiel.exe.config
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\bin\Debug\OefeningMobiel.exe
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\bin\Debug\OefeningMobiel.pdb
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\obj\Debug\OefeningMobiel.exe
+C:\Users\Pinkk\Documents\School\School\6ITN\Trimester 1\Software\OOP\OefeningMobiel\OefeningMobiel\obj\Debug\OefeningMobiel.pdb

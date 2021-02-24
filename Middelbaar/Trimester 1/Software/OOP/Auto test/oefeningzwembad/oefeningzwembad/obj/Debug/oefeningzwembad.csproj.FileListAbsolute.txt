@@ -1,0 +1,6 @@
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\obj\Debug\oefeningzwembad.csprojResolveAssemblyReference.cache
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\bin\Debug\oefeningzwembad.exe.config
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\bin\Debug\oefeningzwembad.exe
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\bin\Debug\oefeningzwembad.pdb
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\obj\Debug\oefeningzwembad.exe
+\\FLANDRIEN\Evi.boelen$\Visual Studio 2017\Projects\OOP\oefeningzwembad\oefeningzwembad\obj\Debug\oefeningzwembad.pdb
