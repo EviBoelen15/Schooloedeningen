@@ -1,0 +1,134 @@
+BASIC OPMAAK PAGINA 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title</title>
+    <link rel="stylesheet" href="Opmaak.css">
+</head>
+<body>
+<header></header>
+<nav>
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</nav>
+<main>
+	<section>
+		<article></article>
+		<article></article>
+		<article></article>
+		<article></article>
+	</section>
+	<section>
+		<article></article>
+		<article></article>
+		<article></article>
+		<article></article>
+	</section>
+</main>
+<footer></footer>
+</body>
+</html>
+
+MEDIA QUERRY 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
+
+
+PSEUDO SELECTOR LINKS
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+BASIC OPMAAK FORMULIEREN
+
+<form>
+<fieldset>
+	<legend>Formulier</legend>
+	<label for="naam">Naam: </label>
+	<input type="text" id="naam" name=".."/>
+	<label for="voornaam">voornaam: </label>
+	<input type="text" id="voornaam" name=".."/>
+</fieldset>
+</form>
+
+OF
+
+<form action="#">
+  <fieldset disabled>
+    <legend>Disabled fieldset</legend>
+    <div>
+      <label for="name">Name: </label>
+      <input type="text" id="name" value="Chris">
+    </div>
+    <div>
+      <label for="pwd">Archetype: </label>
+      <input type="password" id="pwd" value="Wookie">
+    </div>
+  </fieldset>
+</form>
+
+TABLE MET COLSPAN
+
+<table>
+	<tr>
+		<td colspan="2">Deze colom neemt 2 colommen in</td
+		<td></td>
+		<td>Dit is colom 2</td>
+		<td>dit is colom 3</td>
+	</tr>
+</table>
+

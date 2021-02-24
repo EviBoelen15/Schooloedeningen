@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3199ecf9-af0c-4a39-b380-f646ab5e428c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ciToXhuXd1S5j6bkoQJLKVtiUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.oef1.js">
+    <configuration name="rekenen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/uittezenden_webscripting/oef3/rekenen.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="oef1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/oef1/oef1.js" working-dir="$PROJECT_DIR$/oef1">
+      <method v="2" />
+    </configuration>
+    <configuration name="rekenen.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/oef3/js/rekenen.js" working-dir="$PROJECT_DIR$/oef3/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.oef1.js" />
+        <item itemvalue="JavaScript Debug.rekenen.html" />
+        <item itemvalue="Node.js.rekenen.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3199ecf9-af0c-4a39-b380-f646ab5e428c" name="Default Changelist" comment="" />
+      <created>1591010589224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591010589224</updated>
+      <workItem from="1591010591037" duration="11274000" />
+      <workItem from="1591030932990" duration="2902000" />
+      <workItem from="1591087735764" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="673" height="281" key="GridCell.Tab.0.bottom" timestamp="1591024553320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="673" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591024553320" />
+    <state width="673" height="281" key="GridCell.Tab.0.center" timestamp="1591024553320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="673" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591024553320" />
+    <state width="673" height="281" key="GridCell.Tab.0.left" timestamp="1591024553320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="673" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591024553320" />
+    <state width="673" height="281" key="GridCell.Tab.0.right" timestamp="1591024553320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="673" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591024553320" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1591011753609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591011753609" />
+  </component>
+</project>

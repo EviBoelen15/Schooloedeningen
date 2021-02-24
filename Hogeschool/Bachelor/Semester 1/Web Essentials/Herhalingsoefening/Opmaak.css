@@ -1,0 +1,101 @@
+body {
+    background: #ededed;
+    width: 1050px;
+    margin: auto;
+    font-family: "Roboto Light", sans-serif;
+}
+nav {
+    background: rgba(87, 222, 135);
+    color: #093156;
+    position: fixed;
+    width: 1050px;
+    opacity: 30%;
+    margin: 5px 0 5px 0;
+}
+header {
+    margin-top: 40px;
+    font-weight: 400;
+    display: block;
+}
+header img {
+    margin-top: 60px;
+}
+section {
+
+}
+article {
+
+}
+footer {
+    width: 1050px;
+    background: black;
+    color: white;
+    height: 60px;
+    position:fixed;
+    text-align: center;
+    bottom:0;
+}
+ul li {
+    display: inline-block;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+    font-family: "Roboto Light", sans-serif;
+}
+/* unvisited link */
+a:link {
+    color: green;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+.nieuwsartikel {
+    width: 25%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+    float: left;
+}
+.nieuwsartikel img:hover {
+    opacity: 70%;
+}
+.datum{
+    font-size: small;
+    float: left;
+}
+.naam {
+    font-size: small;
+    float: right;
+}
+#knop input{
+    color: white;
+    background: #343740;
+    width: 150px;
+    height: 40px;
+    margin: auto;
+    display: block;
+    clear: both;
+}
+h1 {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+
+}
+.actionartikel {
+    width: 25%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+    float: left;
+}
+td {
+    background-color: #326544;
+    color: white;
+}
+td.infotabel {
+    background-color: #85d38e;
+}

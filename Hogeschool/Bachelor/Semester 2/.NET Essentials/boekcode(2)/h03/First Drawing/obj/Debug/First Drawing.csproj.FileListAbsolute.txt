@@ -1,0 +1,14 @@
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\bin\Debug\First Drawing.exe.config
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\bin\Debug\First Drawing.exe
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\bin\Debug\First Drawing.pdb
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.csprojAssemblyReference.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\MainWindow.baml
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\MainWindow.g.cs
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\App.g.cs
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing_MarkupCompile.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.g.resources
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First_Drawing.Properties.Resources.resources
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.csproj.GenerateResource.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.csproj.CoreCompileInputs.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.exe
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\First Drawing\obj\Debug\First Drawing.pdb

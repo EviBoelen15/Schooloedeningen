@@ -1,0 +1,14 @@
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\bin\Debug\Some Shapes.exe.config
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\bin\Debug\Some Shapes.exe
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\bin\Debug\Some Shapes.pdb
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\MainWindow.baml
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\MainWindow.g.cs
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\App.g.cs
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.g.resources
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.exe
+D:\School\PXL\1ste jaar\Semester 2\.NET Essentials\boekcode(2)\h03\Some Shapes\obj\Debug\Some Shapes.pdb

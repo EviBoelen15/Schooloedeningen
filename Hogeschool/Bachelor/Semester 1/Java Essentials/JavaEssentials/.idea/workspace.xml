@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b20ab7b3-5382-4668-ad33-af4822532d3c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1BiFW1M8mWQKFEtAtkQnOA5Nx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VriendenApp">
+    <configuration name="BoekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h5.opdracht.BoekApp" />
+      <module name="H5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h5.opdracht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RechthoekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h2.opdracht1.RechthoekApp" />
+      <module name="H2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h2.opdracht1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h6.voorbeeldPersoon.SchoolApp" />
+      <module name="H6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h6.voorbeeldPersoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VriendenApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h8.Oef4.VriendenApp" />
+      <module name="H8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h8.Oef4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bijdrageTennisclub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h1.oef2.bijdrageTennisclub" />
+      <module name="H1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h1.oef2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VriendenApp" />
+        <item itemvalue="Application.SchoolApp" />
+        <item itemvalue="Application.BoekApp" />
+        <item itemvalue="Application.RechthoekApp" />
+        <item itemvalue="Application.bijdrageTennisclub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20ab7b3-5382-4668-ad33-af4822532d3c" name="Default Changelist" comment="" />
+      <created>1574514345655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574514345655</updated>
+      <workItem from="1574514348081" duration="4614000" />
+      <workItem from="1578565662474" duration="12293000" />
+      <workItem from="1579356810265" duration="763000" />
+      <workItem from="1579384544590" duration="56000" />
+      <workItem from="1579435136527" duration="9000" />
+      <workItem from="1579614556439" duration="9569000" />
+      <workItem from="1579624254772" duration="1392000" />
+      <workItem from="1579638299614" duration="1838000" />
+      <workItem from="1579687335898" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

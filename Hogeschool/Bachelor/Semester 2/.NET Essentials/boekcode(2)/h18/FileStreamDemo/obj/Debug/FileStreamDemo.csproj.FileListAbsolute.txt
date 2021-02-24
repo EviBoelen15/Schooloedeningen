@@ -1,0 +1,14 @@
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\bin\Debug\FileStreamDemo.exe.config
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\bin\Debug\FileStreamDemo.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\bin\Debug\FileStreamDemo.pdb
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.csprojAssemblyReference.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\MainWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\App.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo_MarkupCompile.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.g.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.Properties.Resources.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.GenerateResource.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.CoreCompileInputs.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\boekcode\h18\FileStreamDemo\obj\Debug\FileStreamDemo.pdb

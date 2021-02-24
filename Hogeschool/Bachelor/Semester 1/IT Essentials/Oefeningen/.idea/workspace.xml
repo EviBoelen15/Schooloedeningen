@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88739131-3ba7-4624-93fa-6e726642f023" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SpacrQWX5BsQhgJRP6AQDSLYaq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.vraag3">
+    <configuration name="Oefening1" type="PythonConfigurationType" factoryName="Python">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_expressies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_expressies/Oefening1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oefening5.3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_functies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_functies/oefening5.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="synthesevraag1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenoefeningen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenoefeningen/synthesevraag1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="synthesevraag2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenoefeningen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenoefeningen/synthesevraag2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vraag1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenoefeningen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenoefeningen/vraag1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vraag2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenoefeningen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenoefeningen/vraag2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vraag3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Oefeningen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examenoefeningen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examenoefeningen/vraag3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vraag3" />
+        <item itemvalue="Python.vraag2" />
+        <item itemvalue="Python.vraag1" />
+        <item itemvalue="Python.synthesevraag2" />
+        <item itemvalue="Python.synthesevraag1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88739131-3ba7-4624-93fa-6e726642f023" name="Default Changelist" comment="" />
+      <created>1572263073201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572263073201</updated>
+      <workItem from="1572263075790" duration="22000" />
+      <workItem from="1572263125910" duration="13129000" />
+      <workItem from="1572341730714" duration="2737000" />
+      <workItem from="1572439933688" duration="9131000" />
+      <workItem from="1572519719924" duration="9816000" />
+      <workItem from="1572539846578" duration="309000" />
+      <workItem from="1572547369382" duration="802000" />
+      <workItem from="1572617981961" duration="8452000" />
+      <workItem from="1572627957510" duration="2455000" />
+      <workItem from="1572706824416" duration="6245000" />
+      <workItem from="1572722365561" duration="337000" />
+      <workItem from="1572787381699" duration="2355000" />
+      <workItem from="1572791316617" duration="944000" />
+      <workItem from="1572796971928" duration="259000" />
+      <workItem from="1572967318092" duration="8983000" />
+      <workItem from="1573213986799" duration="8727000" />
+      <workItem from="1573225996574" duration="5352000" />
+      <workItem from="1573306471286" duration="3040000" />
+      <workItem from="1573309859165" duration="19000" />
+      <workItem from="1573309958298" duration="4084000" />
+      <workItem from="1573403569141" duration="3770000" />
+      <workItem from="1573473750161" duration="7198000" />
+      <workItem from="1573667386174" duration="369000" />
+      <workItem from="1578333892265" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7_lists/oefening7.6.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening4_2extra.coverage" NAME="oefening4.2extra Coverage Results" MODIFIED="1572274043992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave5_2.coverage" NAME="opgave5.2 Coverage Results" MODIFIED="1572442312160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_functies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$vraag2.coverage" NAME="vraag2 Coverage Results" MODIFIED="1573667635703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_10.coverage" NAME="opgave4.10 Coverage Results" MODIFIED="1572343260850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening7_5.coverage" NAME="oefening7_5 Coverage Results" MODIFIED="1572626447684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ITEssentials/7_lists/oefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_7.coverage" NAME="opgave4.7 Coverage Results" MODIFIED="1572272313296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave7_4.coverage" NAME="opgave7.4 Coverage Results" MODIFIED="1572520640448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave7_7.coverage" NAME="opgave7.7 Coverage Results" MODIFIED="1572522494985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$Oefening1.coverage" NAME="Oefening1 Coverage Results" MODIFIED="1572267621323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_expressies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave5_1.coverage" NAME="opgave5.1 Coverage Results" MODIFIED="1572342803834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_functies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening5_3.coverage" NAME="oefening5.3 Coverage Results" MODIFIED="1572621332403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_functies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening6_1_.coverage" NAME="oefening6.1. Coverage Results" MODIFIED="1572621857435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_strings" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening6_4.coverage" NAME="oefening6.4 Coverage Results" MODIFIED="1572623335039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_strings" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening3_2extra.coverage" NAME="oefening3.2extra Coverage Results" MODIFIED="1572270379800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_condities" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgqve7_1.coverage" NAME="opgqve7.1 Coverage Results" MODIFIED="1572520119155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening5_2.coverage" NAME="oefening5.2 Coverage Results" MODIFIED="1572618805422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_functies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oef4_10.coverage" NAME="oef4_10 Coverage Results" MODIFIED="1572343256005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/School/Python IT Essentials/ITEssentials/4_iteraties/oefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_1.coverage" NAME="opgave4.1 Coverage Results" MODIFIED="1572547788286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$synthesevraag1.coverage" NAME="synthesevraag1 Coverage Results" MODIFIED="1573667595452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$extraoef7_2.coverage" NAME="extraoef7.2 Coverage Results" MODIFIED="1573478735012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$vraag3TRY2.coverage" NAME="vraag3TRY2 Coverage Results" MODIFIED="1573406695750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$vraag1.coverage" NAME="vraag1 Coverage Results" MODIFIED="1573667616263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_6.coverage" NAME="opgave4.6 Coverage Results" MODIFIED="1572271889855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening2_6.coverage" NAME="oefening2.6 Coverage Results" MODIFIED="1572268096357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_variabelen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening7_6.coverage" NAME="oefening7.6 Coverage Results" MODIFIED="1572547507468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening6_8.coverage" NAME="oefening6.8 Coverage Results" MODIFIED="1572624101585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_strings" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening.coverage" NAME="oefening Coverage Results" MODIFIED="1573478892771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_strings" />
+    <SUITE FILE_PATH="coverage/Oefeningen$extraoefening6_10.coverage" NAME="extraoefening6.10 Coverage Results" MODIFIED="1573483476940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_strings" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_5.coverage" NAME="opgave4.5 Coverage Results" MODIFIED="1572271747115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave7_2.coverage" NAME="opgave7.2 Coverage Results" MODIFIED="1572520525922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$synthesevraag2.coverage" NAME="synthesevraag2 Coverage Results" MODIFIED="1573667607380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$Oefeningen.coverage" NAME="Oefeningen Coverage Results" MODIFIED="1572268819855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_condities" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening4_5extra.coverage" NAME="oefening4.5extra Coverage Results" MODIFIED="1572547755726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$BIN_TO_DEC.coverage" NAME="BIN-TO-DEC Coverage Results" MODIFIED="1573240078427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/InternetDownloads/Semester1" />
+    <SUITE FILE_PATH="coverage/Oefeningen$vraag3.coverage" NAME="vraag3 Coverage Results" MODIFIED="1573667643633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening5_4.coverage" NAME="oefening5.4 Coverage Results" MODIFIED="1572547938052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_functies" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oef.coverage" NAME="oef Coverage Results" MODIFIED="1573474367785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handige_codes" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_2.coverage" NAME="opgave4.2 Coverage Results" MODIFIED="1572271527947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening6_2.coverage" NAME="oefening6_2 Coverage Results" MODIFIED="1572622016389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ITEssentials/6_strings/oefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave4_9.coverage" NAME="opgave4.9 Coverage Results" MODIFIED="1572272667497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$vraaf2.coverage" NAME="vraaf2 Coverage Results" MODIFIED="1572630397006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examenoefeningen" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave3_2.coverage" NAME="opgave3.2 Coverage Results" MODIFIED="1572268723739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_condities" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave7_6.coverage" NAME="opgave7.6 Coverage Results" MODIFIED="1572522033399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$synthesevraag1__1_.coverage" NAME="synthesevraag1 (1) Coverage Results" MODIFIED="1573309866777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/synthesevraag1" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening7_2.coverage" NAME="oefening7.2 Coverage Results" MODIFIED="1573478025978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave7_5.coverage" NAME="opgave7.5 Coverage Results" MODIFIED="1572520781163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+    <SUITE FILE_PATH="coverage/Oefeningen$DEC_TO_BIN.coverage" NAME="DEC-TO-BIN Coverage Results" MODIFIED="1573408946011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/InternetDownloads/Semester1" />
+    <SUITE FILE_PATH="coverage/Oefeningen$opgave3_3.coverage" NAME="opgave3.3 Coverage Results" MODIFIED="1572269356508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_condities" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening__1_.coverage" NAME="oefening (1) Coverage Results" MODIFIED="1572527969172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteraties" />
+    <SUITE FILE_PATH="coverage/Oefeningen$oefening7_1.coverage" NAME="oefening7.1 Coverage Results" MODIFIED="1572548154862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_lists" />
+  </component>
+</project>

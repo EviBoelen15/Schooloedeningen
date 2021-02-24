@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dd88c8f-5e48-46d9-8b59-33599230c434" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZVBewWJt0yuABiIQDVI5AseXW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/be/pxl/opgave/mains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pinkk\IdeaProjects\Boelen_Evi_JE_examen_1920\src\be\pxl\opgave\mains" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ToernooiApp">
+    <configuration name="PersoonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.opgave.mains.PersoonApp" />
+      <module name="Boelen_Evi_JE_examen_1920" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.opgave.mains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.opgave.mains.TeamApp" />
+      <module name="Boelen_Evi_JE_examen_1920" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.opgave.mains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToernooiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.opgave.mains.ToernooiApp" />
+      <module name="Boelen_Evi_JE_examen_1920" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.opgave.mains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WedstrijdApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.opgave.mains.WedstrijdApp" />
+      <module name="Boelen_Evi_JE_examen_1920" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.opgave.mains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ToernooiApp" />
+        <item itemvalue="Application.WedstrijdApp" />
+        <item itemvalue="Application.TeamApp" />
+        <item itemvalue="Application.PersoonApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd88c8f-5e48-46d9-8b59-33599230c434" name="Default Changelist" comment="" />
+      <created>1579356969644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579356969644</updated>
+      <workItem from="1579356974333" duration="10345000" />
+      <workItem from="1579429956467" duration="12910000" />
+      <workItem from="1579445025376" duration="111000" />
+      <workItem from="1579522185828" duration="1489000" />
+      <workItem from="1579530633486" duration="2861000" />
+      <workItem from="1579614083523" duration="3944000" />
+      <workItem from="1579687333209" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
