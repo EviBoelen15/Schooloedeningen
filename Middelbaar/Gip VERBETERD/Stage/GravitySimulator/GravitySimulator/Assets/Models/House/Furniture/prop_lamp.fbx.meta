@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9d6bd862962bb444ebacebe3ab391a58
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cables
+    100002: //RootNode
+    100004: colliders
+    100006: colliders.001
+    100008: colliders.002
+    100010: colliders.003
+    100012: colliders.004
+    400000: cables
+    400002: //RootNode
+    400004: colliders
+    400006: colliders.001
+    400008: colliders.002
+    400010: colliders.003
+    400012: colliders.004
+    2100000: light
+    2100002: lamp
+    2100004: stand
+    2100006: cables
+    2100008: No Name
+    2300000: cables
+    2300002: //RootNode
+    2300004: colliders
+    2300006: colliders.001
+    2300008: colliders.002
+    2300010: colliders.003
+    2300012: colliders.004
+    3300000: cables
+    3300002: //RootNode
+    3300004: colliders
+    3300006: colliders.001
+    3300008: colliders.002
+    3300010: colliders.003
+    3300012: colliders.004
+    4300000: lamp
+    4300002: cables
+    4300004: colliders
+    4300006: colliders.004
+    4300008: colliders.003
+    4300010: colliders.002
+    4300012: colliders.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cables
+    second: {fileID: 2100000, guid: efd877d2593cca3428d96eb4cd9140ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp
+    second: {fileID: 2100000, guid: 29b6c712a397d8f40b37968012074ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 6ab654b5878af0b4a84008e9f4a67b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stand
+    second: {fileID: 2100000, guid: a1039d818ce034a4c9d74eb4760a8f7f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

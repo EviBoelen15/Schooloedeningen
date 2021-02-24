@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 890c8445a2412364cba110436ae39bfe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: airplane
+    100002: armchair
+    100004: armchair.001
+    100006: book_firewolf
+    100008: canvas_1
+    100010: clock
+    100012: collider.001
+    100014: control_panel
+    100016: door
+    100018: fruit
+    100020: fruit_basket
+    100022: Hemi
+    100024: interior_ceiling
+    100026: interior_closets_l
+    100028: interior_door
+    100030: interior_dresser
+    100032: interior_floor
+    100034: interior_kitchen
+    100036: interior_table
+    100038: interior_walls
+    100040: laptop
+    100042: nightstand_short
+    100044: phone_charger.001
+    100046: pillow
+    100048: pillow.001
+    100050: pillow.002
+    100052: pillow.003
+    100054: poofchair
+    100056: //RootNode
+    100058: propeller_l
+    100060: propeller_r
+    100062: remote
+    100064: shelf_small
+    100066: shelf_small.001
+    100068: socket
+    100070: socket2
+    100072: sofa
+    100074: spotlight
+    100076: tablet
+    100078: tv
+    100080: whiskey
+    100082: windows
+    400000: airplane
+    400002: armchair
+    400004: armchair.001
+    400006: book_firewolf
+    400008: canvas_1
+    400010: clock
+    400012: collider.001
+    400014: control_panel
+    400016: door
+    400018: fruit
+    400020: fruit_basket
+    400022: Hemi
+    400024: interior_ceiling
+    400026: interior_closets_l
+    400028: interior_door
+    400030: interior_dresser
+    400032: interior_floor
+    400034: interior_kitchen
+    400036: interior_table
+    400038: interior_walls
+    400040: laptop
+    400042: nightstand_short
+    400044: phone_charger.001
+    400046: pillow
+    400048: pillow.001
+    400050: pillow.002
+    400052: pillow.003
+    400054: poofchair
+    400056: //RootNode
+    400058: propeller_l
+    400060: propeller_r
+    400062: remote
+    400064: shelf_small
+    400066: shelf_small.001
+    400068: socket
+    400070: socket2
+    400072: sofa
+    400074: spotlight
+    400076: tablet
+    400078: tv
+    400080: whiskey
+    400082: windows
+    2100000: box_white.001
+    2100002: alum_grey_dark.003
+    2100004: chrome.001
+    2100006: alum_grey.003
+    2100008: stool_red.001
+    2100010: alum_white.003
+    2100012: window.001
+    2100014: plane_interior
+    2100016: plane_interior_2
+    2100018: plane_interior_3
+    2100020: wire_214229166.001
+    2100022: plane_grey
+    2100024: plane_white
+    2100026: plane_black
+    2100028: No Name
+    2100030: Material
+    2100032: cupboard
+    2100034: cupboard_handle
+    2100036: light.002
+    2100038: light_housing.002
+    2100040: stairs_wood.002
+    2100042: Black_Fabric_Cusion
+    2100044: firewolf
+    2100046: Rubber_Controlremote-beta.pn
+    2100048: plastic_best.jpg
+    2100050: alum_grey_dark.006
+    2100052: alum_grey.006
+    2100054: alum_white.006
+    2100056: window.003
+    2100058: alum_grey_dark.005
+    2100060: chrome.002
+    2100062: alum_grey.005
+    2100064: stool_red.002
+    2100066: alum_white.005
+    2100068: window.002
+    2100070: alum_grey.002
+    2100072: alum_grey_dark.002
+    2100074: alum_white.001
+    2100076: interior_kitchen
+    2100078: interior_kitchen_table
+    2100080: alum_grey
+    2100082: Black_Fabric
+    2100084: ceiling_light
+    2100086: plane_blacker
+    2300000: airplane
+    2300002: armchair
+    2300004: armchair.001
+    2300006: book_firewolf
+    2300008: canvas_1
+    2300010: clock
+    2300012: collider.001
+    2300014: control_panel
+    2300016: door
+    2300018: fruit
+    2300020: fruit_basket
+    2300022: interior_ceiling
+    2300024: interior_closets_l
+    2300026: interior_door
+    2300028: interior_dresser
+    2300030: interior_floor
+    2300032: interior_kitchen
+    2300034: interior_table
+    2300036: interior_walls
+    2300038: laptop
+    2300040: nightstand_short
+    2300042: phone_charger.001
+    2300044: pillow
+    2300046: pillow.001
+    2300048: pillow.002
+    2300050: pillow.003
+    2300052: poofchair
+    2300054: propeller_l
+    2300056: propeller_r
+    2300058: remote
+    2300060: shelf_small
+    2300062: shelf_small.001
+    2300064: socket
+    2300066: socket2
+    2300068: sofa
+    2300070: spotlight
+    2300072: tablet
+    2300074: tv
+    2300076: whiskey
+    2300078: windows
+    2300080: //RootNode
+    3300000: airplane
+    3300002: armchair
+    3300004: armchair.001
+    3300006: book_firewolf
+    3300008: canvas_1
+    3300010: clock
+    3300012: collider.001
+    3300014: control_panel
+    3300016: door
+    3300018: fruit
+    3300020: fruit_basket
+    3300022: interior_ceiling
+    3300024: interior_closets_l
+    3300026: interior_door
+    3300028: interior_dresser
+    3300030: interior_floor
+    3300032: interior_kitchen
+    3300034: interior_table
+    3300036: interior_walls
+    3300038: laptop
+    3300040: nightstand_short
+    3300042: phone_charger.001
+    3300044: pillow
+    3300046: pillow.001
+    3300048: pillow.002
+    3300050: pillow.003
+    3300052: poofchair
+    3300054: propeller_l
+    3300056: propeller_r
+    3300058: remote
+    3300060: shelf_small
+    3300062: shelf_small.001
+    3300064: socket
+    3300066: socket2
+    3300068: sofa
+    3300070: spotlight
+    3300072: tablet
+    3300074: tv
+    3300076: whiskey
+    3300078: windows
+    3300080: //RootNode
+    4300000: phone_charger.001
+    4300002: interior_table
+    4300004: nightstand_short
+    4300006: windows
+    4300008: canvas_1
+    4300010: poofchair
+    4300012: interior_closets_l
+    4300014: spotlight
+    4300016: shelf_small.001
+    4300018: interior_dresser
+    4300020: shelf_small
+    4300022: pillow.003
+    4300024: book_firewolf
+    4300026: remote
+    4300028: laptop
+    4300030: tablet
+    4300032: armchair
+    4300034: socket
+    4300036: interior_walls
+    4300038: armchair.001
+    4300040: fruit_basket
+    4300042: fruit
+    4300044: whiskey
+    4300046: socket2
+    4300048: interior_kitchen
+    4300050: clock
+    4300052: tv
+    4300054: control_panel
+    4300056: pillow.002
+    4300058: pillow.001
+    4300060: interior_door
+    4300062: pillow
+    4300064: collider.001
+    4300066: sofa
+    4300068: interior_floor
+    4300070: interior_ceiling
+    4300072: door
+    4300074: airplane
+    4300076: propeller_r
+    4300078: propeller_l
+    7400000: book_firewolf|belgium|belgium|Babs|Babs|BabsAction.001|Babs|BabsAction.001|be
+    7400002: book_firewolf|belgium|belgium|Babs|Babs|BabsAction|Babs|BabsAction|belgium|Ba
+    7400004: book_firewolf|belgium|belgium|Babs|Babs|light1Action|Babs|light1Action|belgiu
+    7400006: book_firewolf|belgium|belgium|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400008: book_firewolf|belgium|belgium|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400010: book_firewolf|belgium|belgium|Babs|Babs|light2Action|Babs|light2Action|belgiu
+    7400012: book_firewolf|belgium|belgium|cabine.001|Take 001|BaseLayer|belgium|cabine.00
+    7400014: book_firewolf|belgium|belgium|cabine_SUV|Take 001|BaseLayer|belgium|cabine_SU
+    7400016: book_firewolf|belgium|belgium|Car.001|Take 001|BaseLayer|belgium|Car.001|Take
+    7400018: book_firewolf|belgium|belgium|Car.002|Take 001|BaseLayer|belgium|Car.002|Take
+    7400020: book_firewolf|belgium|belgium|Car_GT|Take 001|BaseLayer|belgium|Car_GT|Take
+      0
+    7400022: book_firewolf|belgium|belgium|Car_HOTROD|Take 001|BaseLayer|belgium|Car_HOTRO
+    7400024: book_firewolf|belgium|belgium|Car_SUV|Take 001|BaseLayer|belgium|Car_SUV|Take
+    7400026: book_firewolf|belgium|belgium|chair_cube|Take 001|BaseLayer|belgium|chair_cub
+    7400028: book_firewolf|belgium|belgium|chassis.001|Take 001|BaseLayer|belgium|chassis.
+    7400030: book_firewolf|belgium|belgium|chassis.002|Take 001|BaseLayer|belgium|chassis.
+    7400032: book_firewolf|belgium|belgium|Jean|Jean|JeanAction.001|Jean|JeanAction.001|be
+    7400034: book_firewolf|belgium|belgium|Jean|Jean|JeanAction.002|Jean|JeanAction.002|be
+    7400036: book_firewolf|belgium|belgium|Jean|Jean|light1Action|Jean|light1Action|belgiu
+    7400038: book_firewolf|belgium|belgium|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400040: book_firewolf|belgium|belgium|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400042: book_firewolf|belgium|belgium|Jean|Jean|light2Action|Jean|light2Action|belgiu
+    7400044: book_firewolf|belgium|belgium|OBJ_Barstool_01|Take 001|BaseLayer|belgium|OBJ_
+    7400046: book_firewolf|belgium|belgium|tubes.001|Take 001|BaseLayer|belgium|tubes.001|
+    7400048: book_firewolf|belgium|belgium|tubes.002|Take 001|BaseLayer|belgium|tubes.002|
+    7400050: book_firewolf|belgium|belgium|tubes_GT|Take 001|BaseLayer|belgium|tubes_GT|Ta
+    7400052: book_firewolf|belgium|belgium|tubes_HOTROD|Take 001|BaseLayer|belgium|tubes_H
+    7400054: book_firewolf|belgium|belgium|tubes_SUV|Take 001|BaseLayer|belgium|tubes_SUV|
+    7400056: book_firewolf|belgium|belgium|wheel_back_L.001|Take 001|BaseLayer|belgium|whe
+    7400058: book_firewolf|belgium|belgium|wheel_back_L.002|Take 001|BaseLayer|belgium|whe
+    7400060: book_firewolf|belgium|belgium|wheel_back_R.001|Take 001|BaseLayer|belgium|whe
+    7400062: book_firewolf|belgium|belgium|wheel_back_R.002|Take 001|BaseLayer|belgium|whe
+    7400064: book_firewolf|belgium|belgium|wheel_front_L.001|Take 001|BaseLayer|belgium|wh
+    7400066: book_firewolf|belgium|belgium|wheel_front_L.002|Take 001|BaseLayer|belgium|wh
+    7400068: book_firewolf|belgium|belgium|wheel_front_R.001|Take 001|BaseLayer|belgium|wh
+    7400070: book_firewolf|belgium|belgium|wheel_front_R.002|Take 001|BaseLayer|belgium|wh
+    7400072: book_firewolf|belgium|belgium|wheel_gt_back_L|Take 001|BaseLayer|belgium|whee
+    7400074: book_firewolf|belgium|belgium|wheel_gt_back_R|Take 001|BaseLayer|belgium|whee
+    7400076: book_firewolf|belgium|belgium|wheel_gt_front_L|Take 001|BaseLayer|belgium|whe
+    7400078: book_firewolf|belgium|belgium|wheel_gt_front_R|Take 001|BaseLayer|belgium|whe
+    7400080: book_firewolf|belgium|belgium|wheel_hotrod_back_L|Take 001|BaseLayer|belgium|
+    7400082: book_firewolf|belgium|belgium|wheel_hotrod_back_R|Take 001|BaseLayer|belgium|
+    7400084: book_firewolf|belgium|belgium|wheel_hotrod_front_L|Take 001|BaseLayer|belgium
+    7400086: book_firewolf|belgium|belgium|wheel_hotrod_front_R|Take 001|BaseLayer|belgium
+    7400088: book_firewolf|belgium|belgium|wheel_suv_back_L|Take 001|BaseLayer|belgium|whe
+    7400090: book_firewolf|belgium|belgium|wheel_suv_back_R|Take 001|BaseLayer|belgium|whe
+    7400092: book_firewolf|belgium|belgium|wheel_suv_front_L|Take 001|BaseLayer|belgium|wh
+    7400094: book_firewolf|belgium|belgium|wheel_suv_front_R|Take 001|BaseLayer|belgium|wh
+    7400096: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|BabsAction.001|Babs|B
+    7400098: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|BabsAction|Babs|BabsA
+    7400100: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|light1Action|Babs|lig
+    7400102: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|light2Action.001|Babs
+    7400104: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|light2Action.002|Babs
+    7400106: book_firewolf|betcenter_vespa|betcenter_vespa|Babs|Babs|light2Action|Babs|lig
+    7400108: book_firewolf|betcenter_vespa|betcenter_vespa|cabine.001|Take 001|BaseLayer|b
+    7400110: book_firewolf|betcenter_vespa|betcenter_vespa|cabine_SUV|Take 001|BaseLayer|b
+    7400112: book_firewolf|betcenter_vespa|betcenter_vespa|Car.001|Take 001|BaseLayer|betc
+    7400114: book_firewolf|betcenter_vespa|betcenter_vespa|Car.002|Take 001|BaseLayer|betc
+    7400116: book_firewolf|betcenter_vespa|betcenter_vespa|Car_GT|Take 001|BaseLayer|betce
+    7400118: book_firewolf|betcenter_vespa|betcenter_vespa|Car_HOTROD|Take 001|BaseLayer|b
+    7400120: book_firewolf|betcenter_vespa|betcenter_vespa|Car_SUV|Take 001|BaseLayer|betc
+    7400122: book_firewolf|betcenter_vespa|betcenter_vespa|chair_cube|Take 001|BaseLayer|b
+    7400124: book_firewolf|betcenter_vespa|betcenter_vespa|chassis.001|Take 001|BaseLayer|
+    7400126: book_firewolf|betcenter_vespa|betcenter_vespa|chassis.002|Take 001|BaseLayer|
+    7400128: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|JeanAction.001|Jean|J
+    7400130: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|JeanAction.002|Jean|J
+    7400132: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|light1Action|Jean|lig
+    7400134: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|light2Action.001|Jean
+    7400136: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|light2Action.002|Jean
+    7400138: book_firewolf|betcenter_vespa|betcenter_vespa|Jean|Jean|light2Action|Jean|lig
+    7400140: book_firewolf|betcenter_vespa|betcenter_vespa|OBJ_Barstool_01|Take 001|BaseLa
+    7400142: book_firewolf|betcenter_vespa|betcenter_vespa|tubes.001|Take 001|BaseLayer|be
+    7400144: book_firewolf|betcenter_vespa|betcenter_vespa|tubes.002|Take 001|BaseLayer|be
+    7400146: book_firewolf|betcenter_vespa|betcenter_vespa|tubes_GT|Take 001|BaseLayer|bet
+    7400148: book_firewolf|betcenter_vespa|betcenter_vespa|tubes_HOTROD|Take 001|BaseLayer
+    7400150: book_firewolf|betcenter_vespa|betcenter_vespa|tubes_SUV|Take 001|BaseLayer|be
+    7400152: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_back_L.001|Take 001|BaseL
+    7400154: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_back_L.002|Take 001|BaseL
+    7400156: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_back_R.001|Take 001|BaseL
+    7400158: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_back_R.002|Take 001|BaseL
+    7400160: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_front_L.001|Take
+      001|Base
+    7400162: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_front_L.002|Take
+      001|Base
+    7400164: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_front_R.001|Take
+      001|Base
+    7400166: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_front_R.002|Take
+      001|Base
+    7400168: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_gt_back_L|Take 001|BaseLa
+    7400170: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_gt_back_R|Take 001|BaseLa
+    7400172: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_gt_front_L|Take 001|BaseL
+    7400174: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_gt_front_R|Take 001|BaseL
+    7400176: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_hotrod_back_L|Take
+      001|Ba
+    7400178: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_hotrod_back_R|Take
+      001|Ba
+    7400180: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_hotrod_front_L|Take
+      001|B
+    7400182: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_hotrod_front_R|Take
+      001|B
+    7400184: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_suv_back_L|Take 001|BaseL
+    7400186: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_suv_back_R|Take 001|BaseL
+    7400188: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_suv_front_L|Take
+      001|Base
+    7400190: book_firewolf|betcenter_vespa|betcenter_vespa|wheel_suv_front_R|Take
+      001|Base
+    7400192: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|BabsAction.001|Babs|BabsA
+    7400194: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|BabsAction|Babs|BabsActio
+    7400196: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|light1Action|Babs|light1A
+    7400198: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|light2Action.001|Babs|lig
+    7400200: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|light2Action.002|Babs|lig
+    7400202: book_firewolf|book_firewolf|book_firewolf|Babs|Babs|light2Action|Babs|light2A
+    7400204: book_firewolf|book_firewolf|book_firewolf|cabine.001|Take 001|BaseLayer|book_
+    7400206: book_firewolf|book_firewolf|book_firewolf|cabine_SUV|Take 001|BaseLayer|book_
+    7400208: book_firewolf|book_firewolf|book_firewolf|Car.001|Take 001|BaseLayer|book_fir
+    7400210: book_firewolf|book_firewolf|book_firewolf|Car.002|Take 001|BaseLayer|book_fir
+    7400212: book_firewolf|book_firewolf|book_firewolf|Car_GT|Take 001|BaseLayer|book_fire
+    7400214: book_firewolf|book_firewolf|book_firewolf|Car_HOTROD|Take 001|BaseLayer|book_
+    7400216: book_firewolf|book_firewolf|book_firewolf|Car_SUV|Take 001|BaseLayer|book_fir
+    7400218: book_firewolf|book_firewolf|book_firewolf|chair_cube|Take 001|BaseLayer|book_
+    7400220: book_firewolf|book_firewolf|book_firewolf|chassis.001|Take 001|BaseLayer|book
+    7400222: book_firewolf|book_firewolf|book_firewolf|chassis.002|Take 001|BaseLayer|book
+    7400224: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|JeanAction.001|Jean|JeanA
+    7400226: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|JeanAction.002|Jean|JeanA
+    7400228: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|light1Action|Jean|light1A
+    7400230: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|light2Action.001|Jean|lig
+    7400232: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|light2Action.002|Jean|lig
+    7400234: book_firewolf|book_firewolf|book_firewolf|Jean|Jean|light2Action|Jean|light2A
+    7400236: book_firewolf|book_firewolf|book_firewolf|OBJ_Barstool_01|Take 001|BaseLayer|
+    7400238: book_firewolf|book_firewolf|book_firewolf|tubes.001|Take 001|BaseLayer|book_f
+    7400240: book_firewolf|book_firewolf|book_firewolf|tubes.002|Take 001|BaseLayer|book_f
+    7400242: book_firewolf|book_firewolf|book_firewolf|tubes_GT|Take 001|BaseLayer|book_fi
+    7400244: book_firewolf|book_firewolf|book_firewolf|tubes_HOTROD|Take 001|BaseLayer|boo
+    7400246: book_firewolf|book_firewolf|book_firewolf|tubes_SUV|Take 001|BaseLayer|book_f
+    7400248: book_firewolf|book_firewolf|book_firewolf|wheel_back_L.001|Take 001|BaseLayer
+    7400250: book_firewolf|book_firewolf|book_firewolf|wheel_back_L.002|Take 001|BaseLayer
+    7400252: book_firewolf|book_firewolf|book_firewolf|wheel_back_R.001|Take 001|BaseLayer
+    7400254: book_firewolf|book_firewolf|book_firewolf|wheel_back_R.002|Take 001|BaseLayer
+    7400256: book_firewolf|book_firewolf|book_firewolf|wheel_front_L.001|Take 001|BaseLaye
+    7400258: book_firewolf|book_firewolf|book_firewolf|wheel_front_L.002|Take 001|BaseLaye
+    7400260: book_firewolf|book_firewolf|book_firewolf|wheel_front_R.001|Take 001|BaseLaye
+    7400262: book_firewolf|book_firewolf|book_firewolf|wheel_front_R.002|Take 001|BaseLaye
+    7400264: book_firewolf|book_firewolf|book_firewolf|wheel_gt_back_L|Take 001|BaseLayer|
+    7400266: book_firewolf|book_firewolf|book_firewolf|wheel_gt_back_R|Take 001|BaseLayer|
+    7400268: book_firewolf|book_firewolf|book_firewolf|wheel_gt_front_L|Take 001|BaseLayer
+    7400270: book_firewolf|book_firewolf|book_firewolf|wheel_gt_front_R|Take 001|BaseLayer
+    7400272: book_firewolf|book_firewolf|book_firewolf|wheel_hotrod_back_L|Take 001|BaseLa
+    7400274: book_firewolf|book_firewolf|book_firewolf|wheel_hotrod_back_R|Take 001|BaseLa
+    7400276: book_firewolf|book_firewolf|book_firewolf|wheel_hotrod_front_L|Take 001|BaseL
+    7400278: book_firewolf|book_firewolf|book_firewolf|wheel_hotrod_front_R|Take 001|BaseL
+    7400280: book_firewolf|book_firewolf|book_firewolf|wheel_suv_back_L|Take 001|BaseLayer
+    7400282: book_firewolf|book_firewolf|book_firewolf|wheel_suv_back_R|Take 001|BaseLayer
+    7400284: book_firewolf|book_firewolf|book_firewolf|wheel_suv_front_L|Take 001|BaseLaye
+    7400286: book_firewolf|book_firewolf|book_firewolf|wheel_suv_front_R|Take 001|BaseLaye
+    7400288: book_firewolf|books_1|books_1|Babs|Babs|BabsAction.001|Babs|BabsAction.001|bo
+    7400290: book_firewolf|books_1|books_1|Babs|Babs|BabsAction|Babs|BabsAction|books_1|Ba
+    7400292: book_firewolf|books_1|books_1|Babs|Babs|light1Action|Babs|light1Action|books_
+    7400294: book_firewolf|books_1|books_1|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400296: book_firewolf|books_1|books_1|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400298: book_firewolf|books_1|books_1|Babs|Babs|light2Action|Babs|light2Action|books_
+    7400300: book_firewolf|books_1|books_1|cabine.001|Take 001|BaseLayer|books_1|cabine.00
+    7400302: book_firewolf|books_1|books_1|cabine_SUV|Take 001|BaseLayer|books_1|cabine_SU
+    7400304: book_firewolf|books_1|books_1|Car.001|Take 001|BaseLayer|books_1|Car.001|Take
+    7400306: book_firewolf|books_1|books_1|Car.002|Take 001|BaseLayer|books_1|Car.002|Take
+    7400308: book_firewolf|books_1|books_1|Car_GT|Take 001|BaseLayer|books_1|Car_GT|Take
+      0
+    7400310: book_firewolf|books_1|books_1|Car_HOTROD|Take 001|BaseLayer|books_1|Car_HOTRO
+    7400312: book_firewolf|books_1|books_1|Car_SUV|Take 001|BaseLayer|books_1|Car_SUV|Take
+    7400314: book_firewolf|books_1|books_1|chair_cube|Take 001|BaseLayer|books_1|chair_cub
+    7400316: book_firewolf|books_1|books_1|chassis.001|Take 001|BaseLayer|books_1|chassis.
+    7400318: book_firewolf|books_1|books_1|chassis.002|Take 001|BaseLayer|books_1|chassis.
+    7400320: book_firewolf|books_1|books_1|Jean|Jean|JeanAction.001|Jean|JeanAction.001|bo
+    7400322: book_firewolf|books_1|books_1|Jean|Jean|JeanAction.002|Jean|JeanAction.002|bo
+    7400324: book_firewolf|books_1|books_1|Jean|Jean|light1Action|Jean|light1Action|books_
+    7400326: book_firewolf|books_1|books_1|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400328: book_firewolf|books_1|books_1|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400330: book_firewolf|books_1|books_1|Jean|Jean|light2Action|Jean|light2Action|books_
+    7400332: book_firewolf|books_1|books_1|OBJ_Barstool_01|Take 001|BaseLayer|books_1|OBJ_
+    7400334: book_firewolf|books_1|books_1|tubes.001|Take 001|BaseLayer|books_1|tubes.001|
+    7400336: book_firewolf|books_1|books_1|tubes.002|Take 001|BaseLayer|books_1|tubes.002|
+    7400338: book_firewolf|books_1|books_1|tubes_GT|Take 001|BaseLayer|books_1|tubes_GT|Ta
+    7400340: book_firewolf|books_1|books_1|tubes_HOTROD|Take 001|BaseLayer|books_1|tubes_H
+    7400342: book_firewolf|books_1|books_1|tubes_SUV|Take 001|BaseLayer|books_1|tubes_SUV|
+    7400344: book_firewolf|books_1|books_1|wheel_back_L.001|Take 001|BaseLayer|books_1|whe
+    7400346: book_firewolf|books_1|books_1|wheel_back_L.002|Take 001|BaseLayer|books_1|whe
+    7400348: book_firewolf|books_1|books_1|wheel_back_R.001|Take 001|BaseLayer|books_1|whe
+    7400350: book_firewolf|books_1|books_1|wheel_back_R.002|Take 001|BaseLayer|books_1|whe
+    7400352: book_firewolf|books_1|books_1|wheel_front_L.001|Take 001|BaseLayer|books_1|wh
+    7400354: book_firewolf|books_1|books_1|wheel_front_L.002|Take 001|BaseLayer|books_1|wh
+    7400356: book_firewolf|books_1|books_1|wheel_front_R.001|Take 001|BaseLayer|books_1|wh
+    7400358: book_firewolf|books_1|books_1|wheel_front_R.002|Take 001|BaseLayer|books_1|wh
+    7400360: book_firewolf|books_1|books_1|wheel_gt_back_L|Take 001|BaseLayer|books_1|whee
+    7400362: book_firewolf|books_1|books_1|wheel_gt_back_R|Take 001|BaseLayer|books_1|whee
+    7400364: book_firewolf|books_1|books_1|wheel_gt_front_L|Take 001|BaseLayer|books_1|whe
+    7400366: book_firewolf|books_1|books_1|wheel_gt_front_R|Take 001|BaseLayer|books_1|whe
+    7400368: book_firewolf|books_1|books_1|wheel_hotrod_back_L|Take 001|BaseLayer|books_1|
+    7400370: book_firewolf|books_1|books_1|wheel_hotrod_back_R|Take 001|BaseLayer|books_1|
+    7400372: book_firewolf|books_1|books_1|wheel_hotrod_front_L|Take 001|BaseLayer|books_1
+    7400374: book_firewolf|books_1|books_1|wheel_hotrod_front_R|Take 001|BaseLayer|books_1
+    7400376: book_firewolf|books_1|books_1|wheel_suv_back_L|Take 001|BaseLayer|books_1|whe
+    7400378: book_firewolf|books_1|books_1|wheel_suv_back_R|Take 001|BaseLayer|books_1|whe
+    7400380: book_firewolf|books_1|books_1|wheel_suv_front_L|Take 001|BaseLayer|books_1|wh
+    7400382: book_firewolf|books_1|books_1|wheel_suv_front_R|Take 001|BaseLayer|books_1|wh
+    7400384: book_firewolf|books_2|books_2|Babs|Babs|BabsAction.001|Babs|BabsAction.001|bo
+    7400386: book_firewolf|books_2|books_2|Babs|Babs|BabsAction|Babs|BabsAction|books_2|Ba
+    7400388: book_firewolf|books_2|books_2|Babs|Babs|light1Action|Babs|light1Action|books_
+    7400390: book_firewolf|books_2|books_2|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400392: book_firewolf|books_2|books_2|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400394: book_firewolf|books_2|books_2|Babs|Babs|light2Action|Babs|light2Action|books_
+    7400396: book_firewolf|books_2|books_2|cabine.001|Take 001|BaseLayer|books_2|cabine.00
+    7400398: book_firewolf|books_2|books_2|cabine_SUV|Take 001|BaseLayer|books_2|cabine_SU
+    7400400: book_firewolf|books_2|books_2|Car.001|Take 001|BaseLayer|books_2|Car.001|Take
+    7400402: book_firewolf|books_2|books_2|Car.002|Take 001|BaseLayer|books_2|Car.002|Take
+    7400404: book_firewolf|books_2|books_2|Car_GT|Take 001|BaseLayer|books_2|Car_GT|Take
+      0
+    7400406: book_firewolf|books_2|books_2|Car_HOTROD|Take 001|BaseLayer|books_2|Car_HOTRO
+    7400408: book_firewolf|books_2|books_2|Car_SUV|Take 001|BaseLayer|books_2|Car_SUV|Take
+    7400410: book_firewolf|books_2|books_2|chair_cube|Take 001|BaseLayer|books_2|chair_cub
+    7400412: book_firewolf|books_2|books_2|chassis.001|Take 001|BaseLayer|books_2|chassis.
+    7400414: book_firewolf|books_2|books_2|chassis.002|Take 001|BaseLayer|books_2|chassis.
+    7400416: book_firewolf|books_2|books_2|Jean|Jean|JeanAction.001|Jean|JeanAction.001|bo
+    7400418: book_firewolf|books_2|books_2|Jean|Jean|JeanAction.002|Jean|JeanAction.002|bo
+    7400420: book_firewolf|books_2|books_2|Jean|Jean|light1Action|Jean|light1Action|books_
+    7400422: book_firewolf|books_2|books_2|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400424: book_firewolf|books_2|books_2|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400426: book_firewolf|books_2|books_2|Jean|Jean|light2Action|Jean|light2Action|books_
+    7400428: book_firewolf|books_2|books_2|OBJ_Barstool_01|Take 001|BaseLayer|books_2|OBJ_
+    7400430: book_firewolf|books_2|books_2|tubes.001|Take 001|BaseLayer|books_2|tubes.001|
+    7400432: book_firewolf|books_2|books_2|tubes.002|Take 001|BaseLayer|books_2|tubes.002|
+    7400434: book_firewolf|books_2|books_2|tubes_GT|Take 001|BaseLayer|books_2|tubes_GT|Ta
+    7400436: book_firewolf|books_2|books_2|tubes_HOTROD|Take 001|BaseLayer|books_2|tubes_H
+    7400438: book_firewolf|books_2|books_2|tubes_SUV|Take 001|BaseLayer|books_2|tubes_SUV|
+    7400440: book_firewolf|books_2|books_2|wheel_back_L.001|Take 001|BaseLayer|books_2|whe
+    7400442: book_firewolf|books_2|books_2|wheel_back_L.002|Take 001|BaseLayer|books_2|whe
+    7400444: book_firewolf|books_2|books_2|wheel_back_R.001|Take 001|BaseLayer|books_2|whe
+    7400446: book_firewolf|books_2|books_2|wheel_back_R.002|Take 001|BaseLayer|books_2|whe
+    7400448: book_firewolf|books_2|books_2|wheel_front_L.001|Take 001|BaseLayer|books_2|wh
+    7400450: book_firewolf|books_2|books_2|wheel_front_L.002|Take 001|BaseLayer|books_2|wh
+    7400452: book_firewolf|books_2|books_2|wheel_front_R.001|Take 001|BaseLayer|books_2|wh
+    7400454: book_firewolf|books_2|books_2|wheel_front_R.002|Take 001|BaseLayer|books_2|wh
+    7400456: book_firewolf|books_2|books_2|wheel_gt_back_L|Take 001|BaseLayer|books_2|whee
+    7400458: book_firewolf|books_2|books_2|wheel_gt_back_R|Take 001|BaseLayer|books_2|whee
+    7400460: book_firewolf|books_2|books_2|wheel_gt_front_L|Take 001|BaseLayer|books_2|whe
+    7400462: book_firewolf|books_2|books_2|wheel_gt_front_R|Take 001|BaseLayer|books_2|whe
+    7400464: book_firewolf|books_2|books_2|wheel_hotrod_back_L|Take 001|BaseLayer|books_2|
+    7400466: book_firewolf|books_2|books_2|wheel_hotrod_back_R|Take 001|BaseLayer|books_2|
+    7400468: book_firewolf|books_2|books_2|wheel_hotrod_front_L|Take 001|BaseLayer|books_2
+    7400470: book_firewolf|books_2|books_2|wheel_hotrod_front_R|Take 001|BaseLayer|books_2
+    7400472: book_firewolf|books_2|books_2|wheel_suv_back_L|Take 001|BaseLayer|books_2|whe
+    7400474: book_firewolf|books_2|books_2|wheel_suv_back_R|Take 001|BaseLayer|books_2|whe
+    7400476: book_firewolf|books_2|books_2|wheel_suv_front_L|Take 001|BaseLayer|books_2|wh
+    7400478: book_firewolf|books_2|books_2|wheel_suv_front_R|Take 001|BaseLayer|books_2|wh
+    7400480: book_firewolf|books_3|books_3|Babs|Babs|BabsAction.001|Babs|BabsAction.001|bo
+    7400482: book_firewolf|books_3|books_3|Babs|Babs|BabsAction|Babs|BabsAction|books_3|Ba
+    7400484: book_firewolf|books_3|books_3|Babs|Babs|light1Action|Babs|light1Action|books_
+    7400486: book_firewolf|books_3|books_3|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400488: book_firewolf|books_3|books_3|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400490: book_firewolf|books_3|books_3|Babs|Babs|light2Action|Babs|light2Action|books_
+    7400492: book_firewolf|books_3|books_3|cabine.001|Take 001|BaseLayer|books_3|cabine.00
+    7400494: book_firewolf|books_3|books_3|cabine_SUV|Take 001|BaseLayer|books_3|cabine_SU
+    7400496: book_firewolf|books_3|books_3|Car.001|Take 001|BaseLayer|books_3|Car.001|Take
+    7400498: book_firewolf|books_3|books_3|Car.002|Take 001|BaseLayer|books_3|Car.002|Take
+    7400500: book_firewolf|books_3|books_3|Car_GT|Take 001|BaseLayer|books_3|Car_GT|Take
+      0
+    7400502: book_firewolf|books_3|books_3|Car_HOTROD|Take 001|BaseLayer|books_3|Car_HOTRO
+    7400504: book_firewolf|books_3|books_3|Car_SUV|Take 001|BaseLayer|books_3|Car_SUV|Take
+    7400506: book_firewolf|books_3|books_3|chair_cube|Take 001|BaseLayer|books_3|chair_cub
+    7400508: book_firewolf|books_3|books_3|chassis.001|Take 001|BaseLayer|books_3|chassis.
+    7400510: book_firewolf|books_3|books_3|chassis.002|Take 001|BaseLayer|books_3|chassis.
+    7400512: book_firewolf|books_3|books_3|Jean|Jean|JeanAction.001|Jean|JeanAction.001|bo
+    7400514: book_firewolf|books_3|books_3|Jean|Jean|JeanAction.002|Jean|JeanAction.002|bo
+    7400516: book_firewolf|books_3|books_3|Jean|Jean|light1Action|Jean|light1Action|books_
+    7400518: book_firewolf|books_3|books_3|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400520: book_firewolf|books_3|books_3|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400522: book_firewolf|books_3|books_3|Jean|Jean|light2Action|Jean|light2Action|books_
+    7400524: book_firewolf|books_3|books_3|OBJ_Barstool_01|Take 001|BaseLayer|books_3|OBJ_
+    7400526: book_firewolf|books_3|books_3|tubes.001|Take 001|BaseLayer|books_3|tubes.001|
+    7400528: book_firewolf|books_3|books_3|tubes.002|Take 001|BaseLayer|books_3|tubes.002|
+    7400530: book_firewolf|books_3|books_3|tubes_GT|Take 001|BaseLayer|books_3|tubes_GT|Ta
+    7400532: book_firewolf|books_3|books_3|tubes_HOTROD|Take 001|BaseLayer|books_3|tubes_H
+    7400534: book_firewolf|books_3|books_3|tubes_SUV|Take 001|BaseLayer|books_3|tubes_SUV|
+    7400536: book_firewolf|books_3|books_3|wheel_back_L.001|Take 001|BaseLayer|books_3|whe
+    7400538: book_firewolf|books_3|books_3|wheel_back_L.002|Take 001|BaseLayer|books_3|whe
+    7400540: book_firewolf|books_3|books_3|wheel_back_R.001|Take 001|BaseLayer|books_3|whe
+    7400542: book_firewolf|books_3|books_3|wheel_back_R.002|Take 001|BaseLayer|books_3|whe
+    7400544: book_firewolf|books_3|books_3|wheel_front_L.001|Take 001|BaseLayer|books_3|wh
+    7400546: book_firewolf|books_3|books_3|wheel_front_L.002|Take 001|BaseLayer|books_3|wh
+    7400548: book_firewolf|books_3|books_3|wheel_front_R.001|Take 001|BaseLayer|books_3|wh
+    7400550: book_firewolf|books_3|books_3|wheel_front_R.002|Take 001|BaseLayer|books_3|wh
+    7400552: book_firewolf|books_3|books_3|wheel_gt_back_L|Take 001|BaseLayer|books_3|whee
+    7400554: book_firewolf|books_3|books_3|wheel_gt_back_R|Take 001|BaseLayer|books_3|whee
+    7400556: book_firewolf|books_3|books_3|wheel_gt_front_L|Take 001|BaseLayer|books_3|whe
+    7400558: book_firewolf|books_3|books_3|wheel_gt_front_R|Take 001|BaseLayer|books_3|whe
+    7400560: book_firewolf|books_3|books_3|wheel_hotrod_back_L|Take 001|BaseLayer|books_3|
+    7400562: book_firewolf|books_3|books_3|wheel_hotrod_back_R|Take 001|BaseLayer|books_3|
+    7400564: book_firewolf|books_3|books_3|wheel_hotrod_front_L|Take 001|BaseLayer|books_3
+    7400566: book_firewolf|books_3|books_3|wheel_hotrod_front_R|Take 001|BaseLayer|books_3
+    7400568: book_firewolf|books_3|books_3|wheel_suv_back_L|Take 001|BaseLayer|books_3|whe
+    7400570: book_firewolf|books_3|books_3|wheel_suv_back_R|Take 001|BaseLayer|books_3|whe
+    7400572: book_firewolf|books_3|books_3|wheel_suv_front_L|Take 001|BaseLayer|books_3|wh
+    7400574: book_firewolf|books_3|books_3|wheel_suv_front_R|Take 001|BaseLayer|books_3|wh
+    7400576: book_firewolf|books_4|books_4|Babs|Babs|BabsAction.001|Babs|BabsAction.001|bo
+    7400578: book_firewolf|books_4|books_4|Babs|Babs|BabsAction|Babs|BabsAction|books_4|Ba
+    7400580: book_firewolf|books_4|books_4|Babs|Babs|light1Action|Babs|light1Action|books_
+    7400582: book_firewolf|books_4|books_4|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400584: book_firewolf|books_4|books_4|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400586: book_firewolf|books_4|books_4|Babs|Babs|light2Action|Babs|light2Action|books_
+    7400588: book_firewolf|books_4|books_4|cabine.001|Take 001|BaseLayer|books_4|cabine.00
+    7400590: book_firewolf|books_4|books_4|cabine_SUV|Take 001|BaseLayer|books_4|cabine_SU
+    7400592: book_firewolf|books_4|books_4|Car.001|Take 001|BaseLayer|books_4|Car.001|Take
+    7400594: book_firewolf|books_4|books_4|Car.002|Take 001|BaseLayer|books_4|Car.002|Take
+    7400596: book_firewolf|books_4|books_4|Car_GT|Take 001|BaseLayer|books_4|Car_GT|Take
+      0
+    7400598: book_firewolf|books_4|books_4|Car_HOTROD|Take 001|BaseLayer|books_4|Car_HOTRO
+    7400600: book_firewolf|books_4|books_4|Car_SUV|Take 001|BaseLayer|books_4|Car_SUV|Take
+    7400602: book_firewolf|books_4|books_4|chair_cube|Take 001|BaseLayer|books_4|chair_cub
+    7400604: book_firewolf|books_4|books_4|chassis.001|Take 001|BaseLayer|books_4|chassis.
+    7400606: book_firewolf|books_4|books_4|chassis.002|Take 001|BaseLayer|books_4|chassis.
+    7400608: book_firewolf|books_4|books_4|Jean|Jean|JeanAction.001|Jean|JeanAction.001|bo
+    7400610: book_firewolf|books_4|books_4|Jean|Jean|JeanAction.002|Jean|JeanAction.002|bo
+    7400612: book_firewolf|books_4|books_4|Jean|Jean|light1Action|Jean|light1Action|books_
+    7400614: book_firewolf|books_4|books_4|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400616: book_firewolf|books_4|books_4|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400618: book_firewolf|books_4|books_4|Jean|Jean|light2Action|Jean|light2Action|books_
+    7400620: book_firewolf|books_4|books_4|OBJ_Barstool_01|Take 001|BaseLayer|books_4|OBJ_
+    7400622: book_firewolf|books_4|books_4|tubes.001|Take 001|BaseLayer|books_4|tubes.001|
+    7400624: book_firewolf|books_4|books_4|tubes.002|Take 001|BaseLayer|books_4|tubes.002|
+    7400626: book_firewolf|books_4|books_4|tubes_GT|Take 001|BaseLayer|books_4|tubes_GT|Ta
+    7400628: book_firewolf|books_4|books_4|tubes_HOTROD|Take 001|BaseLayer|books_4|tubes_H
+    7400630: book_firewolf|books_4|books_4|tubes_SUV|Take 001|BaseLayer|books_4|tubes_SUV|
+    7400632: book_firewolf|books_4|books_4|wheel_back_L.001|Take 001|BaseLayer|books_4|whe
+    7400634: book_firewolf|books_4|books_4|wheel_back_L.002|Take 001|BaseLayer|books_4|whe
+    7400636: book_firewolf|books_4|books_4|wheel_back_R.001|Take 001|BaseLayer|books_4|whe
+    7400638: book_firewolf|books_4|books_4|wheel_back_R.002|Take 001|BaseLayer|books_4|whe
+    7400640: book_firewolf|books_4|books_4|wheel_front_L.001|Take 001|BaseLayer|books_4|wh
+    7400642: book_firewolf|books_4|books_4|wheel_front_L.002|Take 001|BaseLayer|books_4|wh
+    7400644: book_firewolf|books_4|books_4|wheel_front_R.001|Take 001|BaseLayer|books_4|wh
+    7400646: book_firewolf|books_4|books_4|wheel_front_R.002|Take 001|BaseLayer|books_4|wh
+    7400648: book_firewolf|books_4|books_4|wheel_gt_back_L|Take 001|BaseLayer|books_4|whee
+    7400650: book_firewolf|books_4|books_4|wheel_gt_back_R|Take 001|BaseLayer|books_4|whee
+    7400652: book_firewolf|books_4|books_4|wheel_gt_front_L|Take 001|BaseLayer|books_4|whe
+    7400654: book_firewolf|books_4|books_4|wheel_gt_front_R|Take 001|BaseLayer|books_4|whe
+    7400656: book_firewolf|books_4|books_4|wheel_hotrod_back_L|Take 001|BaseLayer|books_4|
+    7400658: book_firewolf|books_4|books_4|wheel_hotrod_back_R|Take 001|BaseLayer|books_4|
+    7400660: book_firewolf|books_4|books_4|wheel_hotrod_front_L|Take 001|BaseLayer|books_4
+    7400662: book_firewolf|books_4|books_4|wheel_hotrod_front_R|Take 001|BaseLayer|books_4
+    7400664: book_firewolf|books_4|books_4|wheel_suv_back_L|Take 001|BaseLayer|books_4|whe
+    7400666: book_firewolf|books_4|books_4|wheel_suv_back_R|Take 001|BaseLayer|books_4|whe
+    7400668: book_firewolf|books_4|books_4|wheel_suv_front_L|Take 001|BaseLayer|books_4|wh
+    7400670: book_firewolf|books_4|books_4|wheel_suv_front_R|Take 001|BaseLayer|books_4|wh
+    7400672: book_firewolf|Cylinder003|Take 001|BaseLayer
+    7400674: book_firewolf|Cylinder003|Take 001|BaseLayer.001
+    7400676: book_firewolf|Cylinder004.001|Take 001|BaseLayer
+    7400678: book_firewolf|Cylinder004|Take 001|BaseLayer
+    7400680: book_firewolf|Cylinder005.001|Take 001|BaseLayer
+    7400682: book_firewolf|Cylinder005|Take 001|BaseLayer
+    7400684: book_firewolf|Cylinder006.001|Take 001|BaseLayer
+    7400686: book_firewolf|Cylinder006|Take 001|BaseLayer
+    7400688: book_firewolf|Cylinder007.001|Take 001|BaseLayer
+    7400690: book_firewolf|Cylinder007|Take 001|BaseLayer
+    7400692: book_firewolf|Cylinder008.001|Take 001|BaseLayer
+    7400694: book_firewolf|Cylinder008|Take 001|BaseLayer
+    7400696: book_firewolf|Cylinder009.001|Take 001|BaseLayer
+    7400698: book_firewolf|Cylinder009|Take 001|BaseLayer
+    7400700: book_firewolf|Cylinder010.001|Take 001|BaseLayer
+    7400702: book_firewolf|Cylinder010|Take 001|BaseLayer
+    7400704: book_firewolf|Cylinder012|Take 001|BaseLayer
+    7400706: book_firewolf|Cylinder012|Take 001|BaseLayer.001
+    7400708: book_firewolf|Cylinder014|Take 001|BaseLayer
+    7400710: book_firewolf|Cylinder014|Take 001|BaseLayer.001
+    7400712: book_firewolf|Cylinder015|Take 001|BaseLayer
+    7400714: book_firewolf|Cylinder015|Take 001|BaseLayer.001
+    7400716: book_firewolf|Cylinder016.001|Take 001|BaseLayer
+    7400718: book_firewolf|Cylinder016|Take 001|BaseLayer
+    7400720: book_firewolf|england|england|Babs|Babs|BabsAction.001|Babs|BabsAction.001|en
+    7400722: book_firewolf|england|england|Babs|Babs|BabsAction|Babs|BabsAction|england|Ba
+    7400724: book_firewolf|england|england|Babs|Babs|light1Action|Babs|light1Action|englan
+    7400726: book_firewolf|england|england|Babs|Babs|light2Action.001|Babs|light2Action.00
+    7400728: book_firewolf|england|england|Babs|Babs|light2Action.002|Babs|light2Action.00
+    7400730: book_firewolf|england|england|Babs|Babs|light2Action|Babs|light2Action|englan
+    7400732: book_firewolf|england|england|cabine.001|Take 001|BaseLayer|england|cabine.00
+    7400734: book_firewolf|england|england|cabine_SUV|Take 001|BaseLayer|england|cabine_SU
+    7400736: book_firewolf|england|england|Car.001|Take 001|BaseLayer|england|Car.001|Take
+    7400738: book_firewolf|england|england|Car.002|Take 001|BaseLayer|england|Car.002|Take
+    7400740: book_firewolf|england|england|Car_GT|Take 001|BaseLayer|england|Car_GT|Take
+      0
+    7400742: book_firewolf|england|england|Car_HOTROD|Take 001|BaseLayer|england|Car_HOTRO
+    7400744: book_firewolf|england|england|Car_SUV|Take 001|BaseLayer|england|Car_SUV|Take
+    7400746: book_firewolf|england|england|chair_cube|Take 001|BaseLayer|england|chair_cub
+    7400748: book_firewolf|england|england|chassis.001|Take 001|BaseLayer|england|chassis.
+    7400750: book_firewolf|england|england|chassis.002|Take 001|BaseLayer|england|chassis.
+    7400752: book_firewolf|england|england|Jean|Jean|JeanAction.001|Jean|JeanAction.001|en
+    7400754: book_firewolf|england|england|Jean|Jean|JeanAction.002|Jean|JeanAction.002|en
+    7400756: book_firewolf|england|england|Jean|Jean|light1Action|Jean|light1Action|englan
+    7400758: book_firewolf|england|england|Jean|Jean|light2Action.001|Jean|light2Action.00
+    7400760: book_firewolf|england|england|Jean|Jean|light2Action.002|Jean|light2Action.00
+    7400762: book_firewolf|england|england|Jean|Jean|light2Action|Jean|light2Action|englan
+    7400764: book_firewolf|england|england|OBJ_Barstool_01|Take 001|BaseLayer|england|OBJ_
+    7400766: book_firewolf|england|england|tubes.001|Take 001|BaseLayer|england|tubes.001|
+    7400768: book_firewolf|england|england|tubes.002|Take 001|BaseLayer|england|tubes.002|
+    7400770: book_firewolf|england|england|tubes_GT|Take 001|BaseLayer|england|tubes_GT|Ta
+    7400772: book_firewolf|england|england|tubes_HOTROD|Take 001|BaseLayer|england|tubes_H
+    7400774: book_firewolf|england|england|tubes_SUV|Take 001|BaseLayer|england|tubes_SUV|
+    7400776: book_firewolf|england|england|wheel_back_L.001|Take 001|BaseLayer|england|whe
+    7400778: book_firewolf|england|england|wheel_back_L.002|Take 001|BaseLayer|england|whe
+    7400780: book_firewolf|england|england|wheel_back_R.001|Take 001|BaseLayer|england|whe
+    7400782: book_firewolf|england|england|wheel_back_R.002|Take 001|BaseLayer|england|whe
+    7400784: book_firewolf|england|england|wheel_front_L.001|Take 001|BaseLayer|england|wh
+    7400786: book_firewolf|england|england|wheel_front_L.002|Take 001|BaseLayer|england|wh
+    7400788: book_firewolf|england|england|wheel_front_R.001|Take 001|BaseLayer|england|wh
+    7400790: book_firewolf|england|england|wheel_front_R.002|Take 001|BaseLayer|england|wh
+    7400792: book_firewolf|england|england|wheel_gt_back_L|Take 001|BaseLayer|england|whee
+    7400794: book_firewolf|england|england|wheel_gt_back_R|Take 001|BaseLayer|england|whee
+    7400796: book_firewolf|england|england|wheel_gt_front_L|Take 001|BaseLayer|england|whe
+    7400798: book_firewolf|england|england|wheel_gt_front_R|Take 001|BaseLayer|england|whe
+    7400800: book_firewolf|england|england|wheel_hotrod_back_L|Take 001|BaseLayer|england|
+    7400802: book_firewolf|england|england|wheel_hotrod_back_R|Take 001|BaseLayer|england|
+    7400804: book_firewolf|england|england|wheel_hotrod_front_L|Take 001|BaseLayer|england
+    7400806: book_firewolf|england|england|wheel_hotrod_front_R|Take 001|BaseLayer|england
+    7400808: book_firewolf|england|england|wheel_suv_back_L|Take 001|BaseLayer|england|whe
+    7400810: book_firewolf|england|england|wheel_suv_back_R|Take 001|BaseLayer|england|whe
+    7400812: book_firewolf|england|england|wheel_suv_front_L|Take 001|BaseLayer|england|wh
+    7400814: book_firewolf|england|england|wheel_suv_front_R|Take 001|BaseLayer|england|wh
+    7400816: book_firewolf|hatch_keel.001|Take 001|BaseLayer
+    7400818: book_firewolf|hatch_keel|Take 001|BaseLayer
+    7400820: book_firewolf|hatch_wing_1.001|Take 001|BaseLayer
+    7400822: book_firewolf|hatch_wing_1|Take 001|BaseLayer
+    7400824: book_firewolf|hatch_wing_2.001|Take 001|BaseLayer
+    7400826: book_firewolf|hatch_wing_2|Take 001|BaseLayer
+    7400828: book_firewolf|Line001|Take 001|BaseLayer
+    7400830: book_firewolf|Line001|Take 001|BaseLayer.001
+    7400832: book_firewolf|Line002|Take 001|BaseLayer
+    7400834: book_firewolf|Line002|Take 001|BaseLayer.001
+    7400836: book_firewolf|undercarriage_1|Take 001|BaseLayer
+    7400838: book_firewolf|undercarriage_1|Take 001|BaseLayer.001
+    7400840: book_firewolf|undercarriage_2|Take 001|BaseLayer
+    7400842: book_firewolf|undercarriage_2|Take 001|BaseLayer.001
+    7400844: book_firewolf|undercarriage_3|Take 001|BaseLayer
+    7400846: book_firewolf|undercarriage_3|Take 001|BaseLayer.001
+    9500000: //RootNode
+    10800000: Hemi
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bbcbc5c272f7b6f4ab4cf5b06f22b768, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

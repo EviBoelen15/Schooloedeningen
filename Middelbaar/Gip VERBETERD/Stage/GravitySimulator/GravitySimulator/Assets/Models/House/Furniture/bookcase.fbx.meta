@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 9f70f9cff61e88c499a8e4e42871ff00
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: artbooks
+    100002: blurays
+    100004: //RootNode
+    100006: books_1
+    100008: books_2
+    100010: books_3
+    100012: books_4
+    100014: books_5
+    100016: books_gamedesign
+    100018: box_1
+    100020: box_2
+    100022: box_3
+    100024: box_4
+    100026: cds
+    100028: comics
+    100030: prop_firewolf
+    100032: stereo
+    100034: vase
+    100036: belgium
+    100038: betcenter_vespa
+    100040: bookshelf
+    100042: england
+    100044: Hemi
+    100046: Hemi.001
+    100048: Babs
+    100050: ecotown_characters
+    100052: Jean
+    100054: Joris
+    100056: Nicole
+    100058: Phil
+    100060: Pierre
+    100062: Wout
+    100064: collider
+    100066: collider.001
+    100068: collider.002
+    100070: collider.003
+    100072: collider.004
+    100074: collider.005
+    100076: collider.006
+    100078: collider.007
+    100080: collider.008
+    100082: collider.009
+    100084: collider.010
+    100086: collider.011
+    100088: collider.012
+    100090: collider.013
+    100092: collider.014
+    100094: collider.015
+    100096: collider.016
+    100098: collider.017
+    100100: collider.018
+    100102: collider.019
+    400000: artbooks
+    400002: blurays
+    400004: //RootNode
+    400006: books_1
+    400008: books_2
+    400010: books_3
+    400012: books_4
+    400014: books_5
+    400016: books_gamedesign
+    400018: box_1
+    400020: box_2
+    400022: box_3
+    400024: box_4
+    400026: cds
+    400028: comics
+    400030: prop_firewolf
+    400032: stereo
+    400034: vase
+    400036: belgium
+    400038: betcenter_vespa
+    400040: bookshelf
+    400042: england
+    400044: Hemi
+    400046: Hemi.001
+    400048: Babs
+    400050: ecotown_characters
+    400052: Jean
+    400054: Joris
+    400056: Nicole
+    400058: Phil
+    400060: Pierre
+    400062: Wout
+    400064: collider
+    400066: collider.001
+    400068: collider.002
+    400070: collider.003
+    400072: collider.004
+    400074: collider.005
+    400076: collider.006
+    400078: collider.007
+    400080: collider.008
+    400082: collider.009
+    400084: collider.010
+    400086: collider.011
+    400088: collider.012
+    400090: collider.013
+    400092: collider.014
+    400094: collider.015
+    400096: collider.016
+    400098: collider.017
+    400100: collider.018
+    400102: collider.019
+    2100000: bookshelf
+    2100002: media_2
+    2100004: box_grey
+    2100006: box_white
+    2100008: media_1
+    2100010: stereo
+    2100012: book_cover_green
+    2100014: alum_white
+    2100016: alum_grey
+    2100018: alum_orange
+    2100020: alum_grey_dark
+    2100022: book_cover_grey
+    2100024: book_cover_red
+    2100026: book_paper
+    2100028: book_cover_blue
+    2100030: No Name
+    2100032: bookshelf.001
+    2300000: artbooks
+    2300002: blurays
+    2300004: //RootNode
+    2300006: books_1
+    2300008: books_2
+    2300010: books_3
+    2300012: books_4
+    2300014: books_5
+    2300016: books_gamedesign
+    2300018: box_1
+    2300020: box_2
+    2300022: box_3
+    2300024: box_4
+    2300026: cds
+    2300028: comics
+    2300030: prop_firewolf
+    2300032: stereo
+    2300034: vase
+    2300036: belgium
+    2300038: betcenter_vespa
+    2300040: bookshelf
+    2300042: england
+    2300044: Babs
+    2300046: ecotown_characters
+    2300048: Jean
+    2300050: Joris
+    2300052: Nicole
+    2300054: Phil
+    2300056: Pierre
+    2300058: Wout
+    2300060: collider
+    2300062: collider.001
+    2300064: collider.002
+    2300066: collider.003
+    2300068: collider.004
+    2300070: collider.005
+    2300072: collider.006
+    2300074: collider.007
+    2300076: collider.008
+    2300078: collider.009
+    2300080: collider.010
+    2300082: collider.011
+    2300084: collider.012
+    2300086: collider.013
+    2300088: collider.014
+    2300090: collider.015
+    2300092: collider.016
+    2300094: collider.017
+    2300096: collider.018
+    2300098: collider.019
+    3300000: artbooks
+    3300002: blurays
+    3300004: //RootNode
+    3300006: books_1
+    3300008: books_2
+    3300010: books_3
+    3300012: books_4
+    3300014: books_5
+    3300016: books_gamedesign
+    3300018: box_1
+    3300020: box_2
+    3300022: box_3
+    3300024: box_4
+    3300026: cds
+    3300028: comics
+    3300030: prop_firewolf
+    3300032: stereo
+    3300034: vase
+    3300036: belgium
+    3300038: betcenter_vespa
+    3300040: bookshelf
+    3300042: england
+    3300044: Babs
+    3300046: ecotown_characters
+    3300048: Jean
+    3300050: Joris
+    3300052: Nicole
+    3300054: Phil
+    3300056: Pierre
+    3300058: Wout
+    3300060: collider
+    3300062: collider.001
+    3300064: collider.002
+    3300066: collider.003
+    3300068: collider.004
+    3300070: collider.005
+    3300072: collider.006
+    3300074: collider.007
+    3300076: collider.008
+    3300078: collider.009
+    3300080: collider.010
+    3300082: collider.011
+    3300084: collider.012
+    3300086: collider.013
+    3300088: collider.014
+    3300090: collider.015
+    3300092: collider.016
+    3300094: collider.017
+    3300096: collider.018
+    3300098: collider.019
+    4300000: bookshelf
+    4300002: cds
+    4300004: box_4
+    4300006: box_3
+    4300008: box_2
+    4300010: box_1
+    4300012: books_gamedesign
+    4300014: stereo
+    4300016: vase
+    4300018: prop_firewolf
+    4300020: blurays
+    4300022: comics
+    4300024: books_5
+    4300026: books_3
+    4300028: artbooks
+    4300030: books_4
+    4300032: books_1
+    4300034: books_2
+    4300036: betcenter_vespa
+    4300038: belgium
+    4300040: england
+    4300042: ecotown_characters
+    4300044: Jean
+    4300046: Phil
+    4300048: Nicole
+    4300050: Joris
+    4300052: Pierre
+    4300054: Wout
+    4300056: Babs
+    4300058: collider.018
+    4300060: collider.017
+    4300062: collider.016
+    4300064: collider.015
+    4300066: collider.014
+    4300068: collider.013
+    4300070: collider.012
+    4300072: collider.011
+    4300074: collider.010
+    4300076: collider.009
+    4300078: collider.008
+    4300080: collider.007
+    4300082: collider.006
+    4300084: collider.005
+    4300086: collider.004
+    4300088: collider.003
+    4300090: collider.002
+    4300092: collider.001
+    4300094: collider
+    4300096: collider.019
+    6400000: //RootNode
+    6400002: collider
+    6400004: collider.001
+    6400006: collider.002
+    6400008: collider.003
+    6400010: collider.004
+    6400012: collider.005
+    6400014: collider.006
+    6400016: collider.007
+    6400018: collider.008
+    6400020: collider.009
+    6400022: collider.010
+    6400024: collider.011
+    6400026: collider.012
+    6400028: collider.013
+    6400030: collider.014
+    6400032: collider.015
+    6400034: collider.016
+    6400036: collider.017
+    6400038: collider.018
+    6400040: collider.019
+    7400000: comics|cabine.001|Take 001|BaseLayer
+    7400002: comics|cabine_SUV|Take 001|BaseLayer
+    7400004: comics|Car.001|Take 001|BaseLayer
+    7400006: comics|Car.002|Take 001|BaseLayer
+    7400008: comics|Car_GT|Take 001|BaseLayer
+    7400010: comics|Car_HOTROD|Take 001|BaseLayer
+    7400012: comics|Car_SUV|Take 001|BaseLayer
+    7400014: comics|chair_cube|Take 001|BaseLayer
+    7400016: comics|chassis.001|Take 001|BaseLayer
+    7400018: comics|chassis.002|Take 001|BaseLayer
+    7400020: comics|OBJ_Barstool_01|Take 001|BaseLayer
+    7400022: comics|tubes.001|Take 001|BaseLayer
+    7400024: comics|tubes.002|Take 001|BaseLayer
+    7400026: comics|tubes_GT|Take 001|BaseLayer
+    7400028: comics|tubes_HOTROD|Take 001|BaseLayer
+    7400030: comics|tubes_SUV|Take 001|BaseLayer
+    7400032: comics|wheel_back_L.001|Take 001|BaseLayer
+    7400034: comics|wheel_back_L.002|Take 001|BaseLayer
+    7400036: comics|wheel_back_R.001|Take 001|BaseLayer
+    7400038: comics|wheel_back_R.002|Take 001|BaseLayer
+    7400040: comics|wheel_front_L.001|Take 001|BaseLayer
+    7400042: comics|wheel_front_L.002|Take 001|BaseLayer
+    7400044: comics|wheel_front_R.001|Take 001|BaseLayer
+    7400046: comics|wheel_front_R.002|Take 001|BaseLayer
+    7400048: comics|wheel_gt_back_L|Take 001|BaseLayer
+    7400050: comics|wheel_gt_back_R|Take 001|BaseLayer
+    7400052: comics|wheel_gt_front_L|Take 001|BaseLayer
+    7400054: comics|wheel_gt_front_R|Take 001|BaseLayer
+    7400056: comics|wheel_hotrod_back_L|Take 001|BaseLayer
+    7400058: comics|wheel_hotrod_back_R|Take 001|BaseLayer
+    7400060: comics|wheel_hotrod_front_L|Take 001|BaseLayer
+    7400062: comics|wheel_hotrod_front_R|Take 001|BaseLayer
+    7400064: comics|wheel_suv_back_L|Take 001|BaseLayer
+    7400066: comics|wheel_suv_back_R|Take 001|BaseLayer
+    7400068: comics|wheel_suv_front_L|Take 001|BaseLayer
+    7400070: comics|wheel_suv_front_R|Take 001|BaseLayer
+    7400072: artbooks|cabine.001|Take 001|BaseLayer
+    7400074: artbooks|cabine_SUV|Take 001|BaseLayer
+    7400076: artbooks|Car.001|Take 001|BaseLayer
+    7400078: artbooks|Car.002|Take 001|BaseLayer
+    7400080: artbooks|Car_GT|Take 001|BaseLayer
+    7400082: artbooks|Car_HOTROD|Take 001|BaseLayer
+    7400084: artbooks|Car_SUV|Take 001|BaseLayer
+    7400086: artbooks|chair_cube|Take 001|BaseLayer
+    7400088: artbooks|chassis.001|Take 001|BaseLayer
+    7400090: artbooks|chassis.002|Take 001|BaseLayer
+    7400092: artbooks|OBJ_Barstool_01|Take 001|BaseLayer
+    7400094: artbooks|tubes.001|Take 001|BaseLayer
+    7400096: artbooks|tubes.002|Take 001|BaseLayer
+    7400098: artbooks|tubes_GT|Take 001|BaseLayer
+    7400100: artbooks|tubes_HOTROD|Take 001|BaseLayer
+    7400102: artbooks|tubes_SUV|Take 001|BaseLayer
+    7400104: artbooks|wheel_back_L.001|Take 001|BaseLayer
+    7400106: artbooks|wheel_back_L.002|Take 001|BaseLayer
+    7400108: artbooks|wheel_back_R.001|Take 001|BaseLayer
+    7400110: artbooks|wheel_back_R.002|Take 001|BaseLayer
+    7400112: artbooks|wheel_front_L.001|Take 001|BaseLayer
+    7400114: artbooks|wheel_front_L.002|Take 001|BaseLayer
+    7400116: artbooks|wheel_front_R.001|Take 001|BaseLayer
+    7400118: artbooks|wheel_front_R.002|Take 001|BaseLayer
+    7400120: artbooks|wheel_gt_back_L|Take 001|BaseLayer
+    7400122: artbooks|wheel_gt_back_R|Take 001|BaseLayer
+    7400124: artbooks|wheel_gt_front_L|Take 001|BaseLayer
+    7400126: artbooks|wheel_gt_front_R|Take 001|BaseLayer
+    7400128: artbooks|wheel_hotrod_back_L|Take 001|BaseLayer
+    7400130: artbooks|wheel_hotrod_back_R|Take 001|BaseLayer
+    7400132: artbooks|wheel_hotrod_front_L|Take 001|BaseLayer
+    7400134: artbooks|wheel_hotrod_front_R|Take 001|BaseLayer
+    7400136: artbooks|wheel_suv_back_L|Take 001|BaseLayer
+    7400138: artbooks|wheel_suv_back_R|Take 001|BaseLayer
+    7400140: artbooks|wheel_suv_front_L|Take 001|BaseLayer
+    7400142: artbooks|wheel_suv_front_R|Take 001|BaseLayer
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Hemi.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookshelf
+    second: {fileID: 2100000, guid: 8bb5b026c99fac844ad8b4730ccf360c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
