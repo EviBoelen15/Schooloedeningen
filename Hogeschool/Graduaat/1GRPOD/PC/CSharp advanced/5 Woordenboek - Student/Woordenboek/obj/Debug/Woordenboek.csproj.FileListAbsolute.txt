@@ -1,0 +1,81 @@
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe.config
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\bin\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowZoeken.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\App.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.lref
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowZoeken.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.g.resources
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.Properties.Resources.resources
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.csproj.GenerateResource.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowInfo.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\WindowInfo.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\Woordenboek\Woordenboek\obj\Debug\Woordenboek.csprojAssemblyReference.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe.config
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.csprojAssemblyReference.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowInfo.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowZoeken.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\App.g.cs
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.lref
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowInfo.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\WindowZoeken.baml
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.g.resources
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.Properties.Resources.resources
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.csproj.GenerateResource.cache
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\Oefeningen\5 Woordenboek\Woordenboek\obj\Debug\App.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe.config
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\bin\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.csprojAssemblyReference.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowInfo.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowZoeken.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\App.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.lref
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\App.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowInfo.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowWoordenboek.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\WindowZoeken.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.g.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.Properties.Resources.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.csproj.GenerateResource.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Info.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Info.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek\Woordenboek\obj\Debug\Woordenboek.AboutBox1.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\bin\Debug\Woordenboek.exe.config
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\bin\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\bin\Debug\Woordenboek.pdb
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.csprojAssemblyReference.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Info.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowInfo.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowWoordenboek.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowZoeken.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\App.g.cs
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek_MarkupCompile.lref
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\App.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Info.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowInfo.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowWoordenboek.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\WindowZoeken.baml
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.g.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.AboutBox1.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.Properties.Resources.resources
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.csproj.GenerateResource.cache
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.exe
+C:\SCHOOL\C# ADVANCED\PROJECTEN\5 Woordenboek - Student\Woordenboek\obj\Debug\Woordenboek.pdb

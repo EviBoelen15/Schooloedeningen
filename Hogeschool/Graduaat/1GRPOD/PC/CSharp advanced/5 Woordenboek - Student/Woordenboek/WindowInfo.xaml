@@ -1,0 +1,21 @@
+﻿<Window x:Class="Woordenboek.WindowInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Woordenboek"
+        mc:Ignorable="d"
+        Title="AssemblyInfo" Height="509.875" Width="800" Loaded="Window_Loaded">
+    <DockPanel HorizontalAlignment="Left"  LastChildFill="True" VerticalAlignment="Top" Width="792">
+        <Image DockPanel.Dock="Left" Width="228" Stretch="Fill" Source="Bestanden/C#.png" />
+        <Button DockPanel.Dock="Bottom"  Content="Ok" Height="33" Margin="0,0,0,20" Width="115" FontSize="16" VerticalAlignment="Top" Click="BtnInfo_Click"/>
+        <StackPanel DockPanel.Dock="Right" Width="532" Margin="0,0,0,42" Height="362">
+            <TextBlock x:Name="TextBlockProductname" Text="Productname: " FontSize="48" FontFamily="Tempus Sans ITC" FontWeight="Bold"/>
+            <TextBlock x:Name="TextBlockVersion" Text="Version: " FontSize="32" FontFamily="Tempus Sans ITC" Margin="0,15,0,0"/>
+            <TextBlock x:Name="TextBlockCopyright" Text="Copyright: " FontSize="32" FontFamily="Tempus Sans ITC" Margin="0,15,0,0"/>
+            <TextBlock x:Name="TextBlockCompanyname" Text="Companyname: " FontSize="32" FontFamily="Tempus Sans ITC" Margin="0,15,0,0"/>
+            <TextBlock x:Name="TextBlockDescription" Text="Description: " FontSize="26" FontFamily="Tempus Sans ITC" Margin="0,15,0,0" TextWrapping="Wrap" Height="157"/>
+        </StackPanel>
+        
+    </DockPanel>
+</Window>
