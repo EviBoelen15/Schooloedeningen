@@ -1,0 +1,43 @@
+﻿<Window x:Class="KlasseGebruiker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KlasseGebruiker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="725*"/>
+            <ColumnDefinition Width="508*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="146,37,0,0" TextWrapping="Wrap" Text="Voornaam" VerticalAlignment="Top" Width="116"/>
+        <TextBlock HorizontalAlignment="Left" Height="24" Margin="410,31,0,0" TextWrapping="Wrap" Text="Naam" VerticalAlignment="Top" Width="114"/>
+        <TextBox x:Name="TxtVoornaam" HorizontalAlignment="Left" Height="29" Margin="145,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171" Text="Ann" TextChanged="TxtVoornaam_TextChanged"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="29" Margin="412,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Text="Das"/>
+        <Button x:Name="BtnConLeeg" Content="Toon constructor (leeg)" HorizontalAlignment="Left" Height="67" Margin="144,121,0,0" VerticalAlignment="Top" Width="180" Click="BtnConLeeg_Click"/>
+        <Button x:Name="BtnConParam" Content="Toon constructor (parameters)" HorizontalAlignment="Left" Height="61" Margin="416,122,0,0" VerticalAlignment="Top" Width="235" Click="BtnConParam_Click"/>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="142" Margin="147,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="506" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.424"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.526"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <GroupBox Header="Werken met de klasse Persoon" HorizontalAlignment="Left" Height="116" VerticalAlignment="Top" Width="304" Margin="62.712,43,0,0" Grid.Column="1">
+            <Button x:Name="BtnPersoon" Content="Persoon" HorizontalAlignment="Left" Height="39" Margin="36,30,0,0" VerticalAlignment="Top" Width="200" Click="BtnPersoon_Click"/>
+        </GroupBox>
+        <GroupBox Header="Werken met de klasse Verjaardag" HorizontalAlignment="Left" Height="104" Margin="56.712,202,0,0" VerticalAlignment="Top" Width="307" Grid.Column="1">
+            <Button x:Name="BtnVerjaardag" Content="Verjaardag" HorizontalAlignment="Left" Height="34" Margin="39,20,0,0" VerticalAlignment="Top" Width="187" Click="BtnVerjaardag_Click"/>
+        </GroupBox>
+        <GroupBox Header="Werken met de klasse Contact" HorizontalAlignment="Left" Height="97" Margin="67.712,360,0,0" VerticalAlignment="Top" Width="294" RenderTransformOrigin="0.5,0.5" Grid.Column="1">
+            <Button x:Name="BtnContact" Content="Contact" HorizontalAlignment="Left" Height="44" Margin="45,17,0,0" VerticalAlignment="Top" Width="170" Click="BtnContact_Click"/>
+        </GroupBox>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="606" Margin="702,-6,0,-3" Stroke="Black" VerticalAlignment="Top" Width="18"/>
+
+    </Grid>
+
+</Window>

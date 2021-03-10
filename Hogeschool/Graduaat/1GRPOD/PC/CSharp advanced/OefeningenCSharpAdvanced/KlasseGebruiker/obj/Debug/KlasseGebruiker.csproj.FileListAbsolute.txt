@@ -1,0 +1,5 @@
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\KlasseGebruiker\obj\Debug\KlasseGebruiker.csprojAssemblyReference.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\KlasseGebruiker\obj\Debug\MainWindow.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\KlasseGebruiker\obj\Debug\App.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\KlasseGebruiker\obj\Debug\KlasseGebruiker_MarkupCompile.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\KlasseGebruiker\obj\Debug\KlasseGebruiker_MarkupCompile.lref

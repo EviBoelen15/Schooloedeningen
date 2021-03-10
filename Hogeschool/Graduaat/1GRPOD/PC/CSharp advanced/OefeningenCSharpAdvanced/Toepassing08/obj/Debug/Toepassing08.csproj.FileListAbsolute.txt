@@ -1,0 +1,14 @@
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\bin\Debug\Toepassing08.exe.config
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\bin\Debug\Toepassing08.exe
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\bin\Debug\Toepassing08.pdb
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\MainWindow.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\App.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08_MarkupCompile.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08_MarkupCompile.lref
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\MainWindow.baml
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.g.resources
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.Properties.Resources.resources
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.csproj.GenerateResource.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.csproj.CoreCompileInputs.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.exe
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\Toepassing08\obj\Debug\Toepassing08.pdb

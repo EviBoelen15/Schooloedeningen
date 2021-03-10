@@ -1,0 +1,14 @@
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\bin\Debug\OefeningWoordenboek.exe.config
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\bin\Debug\OefeningWoordenboek.exe
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\bin\Debug\OefeningWoordenboek.pdb
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\MainWindow.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\App.g.cs
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek_MarkupCompile.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek_MarkupCompile.lref
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\MainWindow.baml
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.g.resources
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.Properties.Resources.resources
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.csproj.GenerateResource.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.csproj.CoreCompileInputs.cache
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.exe
+D:\GITSchool\Schooloedeningen\Hogeschool\Graduaat\1GRPOD\PC\CSharp advanced\OefeningenCsharpAdvanced\OefeningWoordenboek\obj\Debug\OefeningWoordenboek.pdb
