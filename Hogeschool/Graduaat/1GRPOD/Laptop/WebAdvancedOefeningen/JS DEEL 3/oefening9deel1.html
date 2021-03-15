@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <div id="maaltafels">
+            <p>woord 1</p>
+        </div>
+        <script>
+            let getal = prompt("Geef een getal van 1 tot 10 in: ", "uw getal");
+            for(let i = 0; i < getal; i++) {
+                maal(getal, i + 1);
+            }
+            function maal(getal, maal) {
+                console.log(maal + " * " + getal + " = " + getal * maal);
+            }
+        </script>
+    </body>
+</html>

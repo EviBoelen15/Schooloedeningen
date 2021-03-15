@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <div id="maaltafels">
+            <p>woord 1</p>
+        </div>
+        <script>
+            let aantalLijnen = prompt("Hoogte van de halve kersboom: ");
+
+            uitvoer = "";
+            if (aantalLijnen >= 0 && aantalLijnen <= 10) {
+                for(let i = 0; i < aantalLijnen; i++) {
+                    boom();
+                }
+            } else {
+                console.log("Verkeerd getal");
+            }
+            
+            function boom() {
+                uitvoer += "*";
+                console.log(uitvoer);
+            }
+        </script>
+    </body>
+</html>

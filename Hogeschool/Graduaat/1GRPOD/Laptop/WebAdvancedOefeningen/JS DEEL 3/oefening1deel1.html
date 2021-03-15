@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <script>
+            let jaar = prompt('Geef uw geboortejaar in: ', 'Uw geboortejaar');
+            var date = new Date();
+            let leeftijd = date.getFullYear() - jaar;
+            if (leeftijd > 20 ) {
+                alert("je bent oud genoeg om de info op deze pagina te bekijken");
+            }
+            else {
+                alert("Je bent te jong om deze pagina te bekijen. Toegang geweigerd");
+            }
+        </script>
+    </body>
+</html>

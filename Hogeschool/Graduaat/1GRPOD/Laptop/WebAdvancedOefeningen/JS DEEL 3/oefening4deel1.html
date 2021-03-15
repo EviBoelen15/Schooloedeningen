@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <script>
+            let hour = new Date().getHours() + ":" + new Date().getMinutes();
+            if (new Date().getHours() > 7 && new Date().getHours() < 12) {
+                alert(hour + " Goedemorgend");
+            }
+            else if (new Date().getHours() > 12 && new Date().getHours() < 18) {
+                alert(hour + " Goede dag");
+            } else {
+                alert(hour + " Goede avond");
+            }
+        </script>
+    </body>
+</html>
